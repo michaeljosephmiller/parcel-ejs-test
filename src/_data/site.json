@@ -1,0 +1,10 @@
+{
+	"title": "Lottery Analyzer",
+	"description": "Analysis of multi-state lottery games Powerball and Mega Millions",
+	"url": "/",
+	"author": "Michael J Miller",
+	"meta_data": {
+		"twitter": "@michaelj_miller",
+		"opengraph_default": "static/opengraph-default.jpg"
+	}
+}

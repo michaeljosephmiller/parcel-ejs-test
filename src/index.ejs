@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <%- include('_includes/head') %>
+</head>
+
+<body>
+  <%- include('_includes/header') %>
+  <main class='main'>
+    <% for (const game of games) { %>
+    <%- include('_includes/gameCard', { game: game }) %>
+    <% } %>
+  </main>
+  <%- include('_includes/footer') %>
+</body>
+
+</html>

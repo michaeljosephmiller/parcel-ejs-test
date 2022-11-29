@@ -1,0 +1,28 @@
+{
+	"name": "parcel-ejs-test",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"author": "Michael Joseph Miller",
+	"license": "MIT",
+	"source": "src/index.ejs",
+	"browserslist": "> 0.5%, last 6 versions, Firefox ESR, not dead",
+	"scripts": {
+		"prestart": "rm -rf ./docs",
+		"start": "parcel --dist-dir ./docs",
+		"prebuild": "rm -rf ./docs",
+		"build": "parcel build"
+	},
+	"targets": {
+		"default": {
+			"distDir": "docs/",
+			"publicUrl": "./",
+			"sourceMap": false
+		}
+	},
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.8.0",
+		"parcel": "^2.8.0",
+		"parcel-transformer-ejs": "^1.0.0"
+	}
+}
