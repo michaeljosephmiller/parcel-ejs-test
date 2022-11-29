@@ -1,7 +1,7 @@
 name: update-analysis
 on:
   schedule:
-    - cron: "00 05 * * 0,2,3,4,6"
+    - cron: "00 11 * * 0,2,3,4,6"
   workflow_dispatch:
 jobs:
   run-update-scripts:
