@@ -10,6 +10,9692 @@
     "wed",
     "sat"
   ],
+  "history": [
+    {
+      "drawDate": "10/07/2015",
+      "fieldNums": [
+        "18",
+        "30",
+        "40",
+        "48",
+        "52"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/10/2015",
+      "fieldNums": [
+        "12",
+        "27",
+        "29",
+        "43",
+        "68"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/14/2015",
+      "fieldNums": [
+        "15",
+        "20",
+        "29",
+        "31",
+        "40"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/17/2015",
+      "fieldNums": [
+        "48",
+        "49",
+        "57",
+        "62",
+        "69"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/21/2015",
+      "fieldNums": [
+        "30",
+        "32",
+        "42",
+        "56",
+        "57"
+      ],
+      "bonusBall": "11",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "10/24/2015",
+      "fieldNums": [
+        "20",
+        "31",
+        "56",
+        "60",
+        "64"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/28/2015",
+      "fieldNums": [
+        "04",
+        "54",
+        "56",
+        "62",
+        "63"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/31/2015",
+      "fieldNums": [
+        "09",
+        "20",
+        "25",
+        "47",
+        "68"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/04/2015",
+      "fieldNums": [
+        "02",
+        "12",
+        "17",
+        "20",
+        "65"
+      ],
+      "bonusBall": "17",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "11/07/2015",
+      "fieldNums": [
+        "07",
+        "16",
+        "25",
+        "50",
+        "53"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/11/2015",
+      "fieldNums": [
+        "04",
+        "26",
+        "32",
+        "55",
+        "64"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/14/2015",
+      "fieldNums": [
+        "14",
+        "22",
+        "37",
+        "45",
+        "66"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/18/2015",
+      "fieldNums": [
+        "17",
+        "40",
+        "41",
+        "46",
+        "69"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/21/2015",
+      "fieldNums": [
+        "37",
+        "47",
+        "50",
+        "52",
+        "57"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/25/2015",
+      "fieldNums": [
+        "16",
+        "29",
+        "53",
+        "58",
+        "69"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/28/2015",
+      "fieldNums": [
+        "02",
+        "06",
+        "47",
+        "66",
+        "67"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/02/2015",
+      "fieldNums": [
+        "14",
+        "18",
+        "19",
+        "32",
+        "64"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/05/2015",
+      "fieldNums": [
+        "13",
+        "27",
+        "33",
+        "47",
+        "68"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/09/2015",
+      "fieldNums": [
+        "07",
+        "10",
+        "16",
+        "46",
+        "56"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/12/2015",
+      "fieldNums": [
+        "02",
+        "14",
+        "19",
+        "30",
+        "62"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/16/2015",
+      "fieldNums": [
+        "09",
+        "10",
+        "32",
+        "42",
+        "55"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/19/2015",
+      "fieldNums": [
+        "28",
+        "30",
+        "41",
+        "59",
+        "68"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/23/2015",
+      "fieldNums": [
+        "16",
+        "38",
+        "55",
+        "63",
+        "67"
+      ],
+      "bonusBall": "25",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "12/26/2015",
+      "fieldNums": [
+        "27",
+        "40",
+        "44",
+        "59",
+        "65"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/30/2015",
+      "fieldNums": [
+        "12",
+        "36",
+        "38",
+        "54",
+        "61"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/02/2016",
+      "fieldNums": [
+        "05",
+        "06",
+        "15",
+        "29",
+        "42"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/06/2016",
+      "fieldNums": [
+        "02",
+        "11",
+        "47",
+        "62",
+        "63"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/09/2016",
+      "fieldNums": [
+        "16",
+        "19",
+        "32",
+        "34",
+        "57"
+      ],
+      "bonusBall": "13",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/13/2016",
+      "fieldNums": [
+        "04",
+        "08",
+        "19",
+        "27",
+        "34"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/16/2016",
+      "fieldNums": [
+        "03",
+        "51",
+        "52",
+        "61",
+        "64"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/20/2016",
+      "fieldNums": [
+        "05",
+        "39",
+        "44",
+        "47",
+        "69"
+      ],
+      "bonusBall": "24",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "01/23/2016",
+      "fieldNums": [
+        "22",
+        "32",
+        "34",
+        "40",
+        "69"
+      ],
+      "bonusBall": "19",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "01/27/2016",
+      "fieldNums": [
+        "03",
+        "12",
+        "40",
+        "52",
+        "67"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/30/2016",
+      "fieldNums": [
+        "05",
+        "12",
+        "16",
+        "31",
+        "43"
+      ],
+      "bonusBall": "18",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "02/03/2016",
+      "fieldNums": [
+        "26",
+        "28",
+        "31",
+        "60",
+        "67"
+      ],
+      "bonusBall": "23",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/06/2016",
+      "fieldNums": [
+        "04",
+        "13",
+        "31",
+        "36",
+        "52"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/10/2016",
+      "fieldNums": [
+        "02",
+        "03",
+        "40",
+        "50",
+        "62"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/13/2016",
+      "fieldNums": [
+        "07",
+        "15",
+        "18",
+        "19",
+        "36"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/17/2016",
+      "fieldNums": [
+        "07",
+        "17",
+        "27",
+        "29",
+        "40"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/20/2016",
+      "fieldNums": [
+        "11",
+        "12",
+        "15",
+        "16",
+        "54"
+      ],
+      "bonusBall": "25",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "02/24/2016",
+      "fieldNums": [
+        "21",
+        "31",
+        "64",
+        "65",
+        "67"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/27/2016",
+      "fieldNums": [
+        "10",
+        "11",
+        "21",
+        "22",
+        "53"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/02/2016",
+      "fieldNums": [
+        "12",
+        "13",
+        "44",
+        "52",
+        "62"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/05/2016",
+      "fieldNums": [
+        "03",
+        "27",
+        "34",
+        "59",
+        "69"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/09/2016",
+      "fieldNums": [
+        "14",
+        "23",
+        "32",
+        "34",
+        "68"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/12/2016",
+      "fieldNums": [
+        "11",
+        "28",
+        "50",
+        "57",
+        "62"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/16/2016",
+      "fieldNums": [
+        "10",
+        "12",
+        "13",
+        "46",
+        "50"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/19/2016",
+      "fieldNums": [
+        "11",
+        "23",
+        "43",
+        "54",
+        "60"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/23/2016",
+      "fieldNums": [
+        "05",
+        "08",
+        "15",
+        "22",
+        "49"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/26/2016",
+      "fieldNums": [
+        "11",
+        "23",
+        "42",
+        "52",
+        "68"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/30/2016",
+      "fieldNums": [
+        "24",
+        "44",
+        "53",
+        "55",
+        "63"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/02/2016",
+      "fieldNums": [
+        "09",
+        "28",
+        "30",
+        "40",
+        "61"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/06/2016",
+      "fieldNums": [
+        "04",
+        "28",
+        "49",
+        "60",
+        "65"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/09/2016",
+      "fieldNums": [
+        "14",
+        "22",
+        "23",
+        "41",
+        "61"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/13/2016",
+      "fieldNums": [
+        "30",
+        "33",
+        "35",
+        "38",
+        "64"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/16/2016",
+      "fieldNums": [
+        "03",
+        "18",
+        "25",
+        "32",
+        "51"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/20/2016",
+      "fieldNums": [
+        "12",
+        "25",
+        "30",
+        "52",
+        "62"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/23/2016",
+      "fieldNums": [
+        "19",
+        "35",
+        "46",
+        "59",
+        "62"
+      ],
+      "bonusBall": "13",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "04/27/2016",
+      "fieldNums": [
+        "02",
+        "25",
+        "33",
+        "39",
+        "64"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/30/2016",
+      "fieldNums": [
+        "03",
+        "12",
+        "16",
+        "32",
+        "34"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/04/2016",
+      "fieldNums": [
+        "30",
+        "47",
+        "57",
+        "66",
+        "69"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/07/2016",
+      "fieldNums": [
+        "05",
+        "25",
+        "26",
+        "44",
+        "66"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/11/2016",
+      "fieldNums": [
+        "20",
+        "32",
+        "52",
+        "66",
+        "69"
+      ],
+      "bonusBall": "23",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/14/2016",
+      "fieldNums": [
+        "13",
+        "27",
+        "47",
+        "64",
+        "65"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/18/2016",
+      "fieldNums": [
+        "23",
+        "25",
+        "39",
+        "54",
+        "67"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/21/2016",
+      "fieldNums": [
+        "05",
+        "07",
+        "09",
+        "23",
+        "32"
+      ],
+      "bonusBall": "26",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "05/25/2016",
+      "fieldNums": [
+        "11",
+        "24",
+        "41",
+        "59",
+        "64"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/28/2016",
+      "fieldNums": [
+        "06",
+        "33",
+        "34",
+        "58",
+        "59"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/01/2016",
+      "fieldNums": [
+        "23",
+        "30",
+        "33",
+        "40",
+        "69"
+      ],
+      "bonusBall": "12",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "06/04/2016",
+      "fieldNums": [
+        "16",
+        "20",
+        "22",
+        "43",
+        "64"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/08/2016",
+      "fieldNums": [
+        "12",
+        "25",
+        "37",
+        "60",
+        "69"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/11/2016",
+      "fieldNums": [
+        "20",
+        "27",
+        "36",
+        "41",
+        "58"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/15/2016",
+      "fieldNums": [
+        "04",
+        "22",
+        "24",
+        "31",
+        "33"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/18/2016",
+      "fieldNums": [
+        "02",
+        "23",
+        "41",
+        "53",
+        "63"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/22/2016",
+      "fieldNums": [
+        "14",
+        "40",
+        "42",
+        "43",
+        "52"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/25/2016",
+      "fieldNums": [
+        "03",
+        "27",
+        "36",
+        "56",
+        "69"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/29/2016",
+      "fieldNums": [
+        "23",
+        "29",
+        "37",
+        "60",
+        "64"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/02/2016",
+      "fieldNums": [
+        "10",
+        "34",
+        "39",
+        "59",
+        "63"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/06/2016",
+      "fieldNums": [
+        "02",
+        "24",
+        "31",
+        "57",
+        "66"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/09/2016",
+      "fieldNums": [
+        "10",
+        "28",
+        "32",
+        "61",
+        "64"
+      ],
+      "bonusBall": "12",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/13/2016",
+      "fieldNums": [
+        "03",
+        "15",
+        "29",
+        "54",
+        "57"
+      ],
+      "bonusBall": "10",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/16/2016",
+      "fieldNums": [
+        "11",
+        "17",
+        "40",
+        "50",
+        "62"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/20/2016",
+      "fieldNums": [
+        "06",
+        "25",
+        "35",
+        "58",
+        "66"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/23/2016",
+      "fieldNums": [
+        "05",
+        "07",
+        "23",
+        "35",
+        "39"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/27/2016",
+      "fieldNums": [
+        "10",
+        "47",
+        "50",
+        "65",
+        "68"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/30/2016",
+      "fieldNums": [
+        "11",
+        "17",
+        "21",
+        "23",
+        "32"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/03/2016",
+      "fieldNums": [
+        "09",
+        "11",
+        "27",
+        "66",
+        "67"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/06/2016",
+      "fieldNums": [
+        "20",
+        "33",
+        "36",
+        "47",
+        "52"
+      ],
+      "bonusBall": "12",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/10/2016",
+      "fieldNums": [
+        "23",
+        "56",
+        "61",
+        "64",
+        "67"
+      ],
+      "bonusBall": "12",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "08/13/2016",
+      "fieldNums": [
+        "38",
+        "44",
+        "60",
+        "64",
+        "69"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/17/2016",
+      "fieldNums": [
+        "33",
+        "44",
+        "49",
+        "50",
+        "52"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/20/2016",
+      "fieldNums": [
+        "03",
+        "06",
+        "21",
+        "60",
+        "68"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/24/2016",
+      "fieldNums": [
+        "09",
+        "11",
+        "25",
+        "64",
+        "65"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/27/2016",
+      "fieldNums": [
+        "04",
+        "32",
+        "48",
+        "49",
+        "63"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/31/2016",
+      "fieldNums": [
+        "05",
+        "10",
+        "24",
+        "56",
+        "61"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/03/2016",
+      "fieldNums": [
+        "07",
+        "39",
+        "50",
+        "59",
+        "67"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/07/2016",
+      "fieldNums": [
+        "22",
+        "23",
+        "29",
+        "33",
+        "55"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/10/2016",
+      "fieldNums": [
+        "03",
+        "17",
+        "49",
+        "55",
+        "68"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/14/2016",
+      "fieldNums": [
+        "10",
+        "11",
+        "23",
+        "28",
+        "31"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/17/2016",
+      "fieldNums": [
+        "09",
+        "19",
+        "51",
+        "55",
+        "62"
+      ],
+      "bonusBall": "14",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "09/21/2016",
+      "fieldNums": [
+        "01",
+        "28",
+        "63",
+        "67",
+        "69"
+      ],
+      "bonusBall": "17",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "09/24/2016",
+      "fieldNums": [
+        "07",
+        "15",
+        "20",
+        "29",
+        "41"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/28/2016",
+      "fieldNums": [
+        "30",
+        "38",
+        "52",
+        "53",
+        "62"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/01/2016",
+      "fieldNums": [
+        "02",
+        "12",
+        "50",
+        "61",
+        "64"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/05/2016",
+      "fieldNums": [
+        "08",
+        "18",
+        "27",
+        "29",
+        "60"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/08/2016",
+      "fieldNums": [
+        "03",
+        "54",
+        "61",
+        "64",
+        "68"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/12/2016",
+      "fieldNums": [
+        "16",
+        "30",
+        "34",
+        "37",
+        "44"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/15/2016",
+      "fieldNums": [
+        "23",
+        "49",
+        "57",
+        "64",
+        "67"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/19/2016",
+      "fieldNums": [
+        "10",
+        "16",
+        "38",
+        "43",
+        "63"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/22/2016",
+      "fieldNums": [
+        "01",
+        "28",
+        "33",
+        "55",
+        "56"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/26/2016",
+      "fieldNums": [
+        "02",
+        "03",
+        "16",
+        "48",
+        "56"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/29/2016",
+      "fieldNums": [
+        "19",
+        "20",
+        "21",
+        "42",
+        "48"
+      ],
+      "bonusBall": "23",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/02/2016",
+      "fieldNums": [
+        "13",
+        "18",
+        "37",
+        "54",
+        "61"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/05/2016",
+      "fieldNums": [
+        "21",
+        "31",
+        "50",
+        "51",
+        "69"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/09/2016",
+      "fieldNums": [
+        "01",
+        "25",
+        "28",
+        "31",
+        "54"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/12/2016",
+      "fieldNums": [
+        "08",
+        "17",
+        "20",
+        "27",
+        "52"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/16/2016",
+      "fieldNums": [
+        "28",
+        "41",
+        "61",
+        "63",
+        "65"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/19/2016",
+      "fieldNums": [
+        "16",
+        "24",
+        "28",
+        "43",
+        "61"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/23/2016",
+      "fieldNums": [
+        "07",
+        "32",
+        "41",
+        "47",
+        "61"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/26/2016",
+      "fieldNums": [
+        "17",
+        "19",
+        "21",
+        "37",
+        "44"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/30/2016",
+      "fieldNums": [
+        "03",
+        "14",
+        "18",
+        "25",
+        "45"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/03/2016",
+      "fieldNums": [
+        "08",
+        "10",
+        "26",
+        "27",
+        "33"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/07/2016",
+      "fieldNums": [
+        "41",
+        "48",
+        "49",
+        "53",
+        "64"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/10/2016",
+      "fieldNums": [
+        "12",
+        "21",
+        "32",
+        "44",
+        "66"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/14/2016",
+      "fieldNums": [
+        "18",
+        "26",
+        "37",
+        "39",
+        "66"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/17/2016",
+      "fieldNums": [
+        "01",
+        "08",
+        "16",
+        "40",
+        "48"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/21/2016",
+      "fieldNums": [
+        "25",
+        "33",
+        "40",
+        "54",
+        "68"
+      ],
+      "bonusBall": "03",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "12/24/2016",
+      "fieldNums": [
+        "28",
+        "38",
+        "42",
+        "51",
+        "52"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/28/2016",
+      "fieldNums": [
+        "16",
+        "23",
+        "30",
+        "44",
+        "58"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/31/2016",
+      "fieldNums": [
+        "01",
+        "03",
+        "28",
+        "57",
+        "67"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/04/2017",
+      "fieldNums": [
+        "16",
+        "17",
+        "29",
+        "41",
+        "42"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/07/2017",
+      "fieldNums": [
+        "03",
+        "12",
+        "24",
+        "37",
+        "63"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/11/2017",
+      "fieldNums": [
+        "01",
+        "03",
+        "13",
+        "16",
+        "43"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/14/2017",
+      "fieldNums": [
+        "23",
+        "55",
+        "59",
+        "64",
+        "69"
+      ],
+      "bonusBall": "13",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "01/18/2017",
+      "fieldNums": [
+        "09",
+        "40",
+        "41",
+        "53",
+        "58"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/21/2017",
+      "fieldNums": [
+        "23",
+        "25",
+        "45",
+        "52",
+        "67"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/25/2017",
+      "fieldNums": [
+        "18",
+        "28",
+        "62",
+        "66",
+        "68"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/28/2017",
+      "fieldNums": [
+        "12",
+        "20",
+        "39",
+        "49",
+        "69"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/01/2017",
+      "fieldNums": [
+        "09",
+        "43",
+        "57",
+        "60",
+        "64"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/04/2017",
+      "fieldNums": [
+        "06",
+        "13",
+        "16",
+        "17",
+        "52"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/08/2017",
+      "fieldNums": [
+        "14",
+        "20",
+        "42",
+        "49",
+        "66"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/11/2017",
+      "fieldNums": [
+        "05",
+        "09",
+        "17",
+        "37",
+        "64"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/15/2017",
+      "fieldNums": [
+        "05",
+        "28",
+        "33",
+        "38",
+        "42"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/18/2017",
+      "fieldNums": [
+        "03",
+        "07",
+        "09",
+        "31",
+        "33"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/22/2017",
+      "fieldNums": [
+        "10",
+        "13",
+        "28",
+        "52",
+        "61"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/25/2017",
+      "fieldNums": [
+        "06",
+        "32",
+        "47",
+        "62",
+        "65"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/01/2017",
+      "fieldNums": [
+        "10",
+        "16",
+        "40",
+        "52",
+        "55"
+      ],
+      "bonusBall": "17",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "03/04/2017",
+      "fieldNums": [
+        "02",
+        "18",
+        "19",
+        "22",
+        "63"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/08/2017",
+      "fieldNums": [
+        "23",
+        "33",
+        "42",
+        "46",
+        "59"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/11/2017",
+      "fieldNums": [
+        "01",
+        "26",
+        "41",
+        "50",
+        "57"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/15/2017",
+      "fieldNums": [
+        "16",
+        "30",
+        "41",
+        "48",
+        "53"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/18/2017",
+      "fieldNums": [
+        "13",
+        "25",
+        "44",
+        "54",
+        "67"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/22/2017",
+      "fieldNums": [
+        "02",
+        "09",
+        "27",
+        "29",
+        "42"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/25/2017",
+      "fieldNums": [
+        "18",
+        "31",
+        "32",
+        "45",
+        "48"
+      ],
+      "bonusBall": "16",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "03/29/2017",
+      "fieldNums": [
+        "08",
+        "15",
+        "31",
+        "36",
+        "62"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/01/2017",
+      "fieldNums": [
+        "09",
+        "32",
+        "36",
+        "44",
+        "65"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/05/2017",
+      "fieldNums": [
+        "08",
+        "20",
+        "46",
+        "53",
+        "54"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/08/2017",
+      "fieldNums": [
+        "23",
+        "36",
+        "51",
+        "53",
+        "60"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/12/2017",
+      "fieldNums": [
+        "08",
+        "14",
+        "61",
+        "63",
+        "68"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/15/2017",
+      "fieldNums": [
+        "05",
+        "22",
+        "26",
+        "45",
+        "61"
+      ],
+      "bonusBall": "13",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/19/2017",
+      "fieldNums": [
+        "01",
+        "19",
+        "37",
+        "40",
+        "52"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/22/2017",
+      "fieldNums": [
+        "21",
+        "39",
+        "41",
+        "48",
+        "63"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/26/2017",
+      "fieldNums": [
+        "01",
+        "15",
+        "18",
+        "26",
+        "51"
+      ],
+      "bonusBall": "26",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "04/29/2017",
+      "fieldNums": [
+        "22",
+        "23",
+        "24",
+        "45",
+        "62"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/03/2017",
+      "fieldNums": [
+        "17",
+        "18",
+        "49",
+        "59",
+        "66"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/06/2017",
+      "fieldNums": [
+        "11",
+        "21",
+        "31",
+        "41",
+        "59"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/10/2017",
+      "fieldNums": [
+        "29",
+        "31",
+        "46",
+        "56",
+        "62"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/13/2017",
+      "fieldNums": [
+        "17",
+        "20",
+        "32",
+        "63",
+        "68"
+      ],
+      "bonusBall": "19",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "05/17/2017",
+      "fieldNums": [
+        "04",
+        "11",
+        "39",
+        "45",
+        "48"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/20/2017",
+      "fieldNums": [
+        "05",
+        "22",
+        "45",
+        "47",
+        "54"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/24/2017",
+      "fieldNums": [
+        "28",
+        "32",
+        "33",
+        "38",
+        "62"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/27/2017",
+      "fieldNums": [
+        "05",
+        "10",
+        "28",
+        "55",
+        "67"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/31/2017",
+      "fieldNums": [
+        "04",
+        "33",
+        "39",
+        "46",
+        "60"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/03/2017",
+      "fieldNums": [
+        "03",
+        "09",
+        "21",
+        "41",
+        "54"
+      ],
+      "bonusBall": "25",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "06/07/2017",
+      "fieldNums": [
+        "05",
+        "21",
+        "57",
+        "66",
+        "69"
+      ],
+      "bonusBall": "13",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/14/2017",
+      "fieldNums": [
+        "05",
+        "22",
+        "43",
+        "57",
+        "63"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/17/2017",
+      "fieldNums": [
+        "10",
+        "13",
+        "32",
+        "53",
+        "62"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/21/2017",
+      "fieldNums": [
+        "14",
+        "46",
+        "61",
+        "65",
+        "68"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/24/2017",
+      "fieldNums": [
+        "10",
+        "22",
+        "32",
+        "36",
+        "58"
+      ],
+      "bonusBall": "10",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "06/28/2017",
+      "fieldNums": [
+        "29",
+        "37",
+        "46",
+        "53",
+        "68"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/01/2017",
+      "fieldNums": [
+        "19",
+        "42",
+        "45",
+        "48",
+        "53"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/05/2017",
+      "fieldNums": [
+        "04",
+        "09",
+        "16",
+        "54",
+        "68"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/08/2017",
+      "fieldNums": [
+        "08",
+        "10",
+        "29",
+        "40",
+        "59"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/12/2017",
+      "fieldNums": [
+        "01",
+        "02",
+        "18",
+        "23",
+        "61"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/15/2017",
+      "fieldNums": [
+        "09",
+        "40",
+        "63",
+        "64",
+        "66"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/19/2017",
+      "fieldNums": [
+        "50",
+        "51",
+        "59",
+        "61",
+        "63"
+      ],
+      "bonusBall": "04",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "07/22/2017",
+      "fieldNums": [
+        "05",
+        "32",
+        "44",
+        "53",
+        "60"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/26/2017",
+      "fieldNums": [
+        "07",
+        "19",
+        "21",
+        "42",
+        "69"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/29/2017",
+      "fieldNums": [
+        "01",
+        "28",
+        "40",
+        "45",
+        "48"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/02/2017",
+      "fieldNums": [
+        "01",
+        "16",
+        "54",
+        "63",
+        "69"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/05/2017",
+      "fieldNums": [
+        "11",
+        "21",
+        "28",
+        "33",
+        "45"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/09/2017",
+      "fieldNums": [
+        "12",
+        "30",
+        "36",
+        "47",
+        "62"
+      ],
+      "bonusBall": "09",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "08/12/2017",
+      "fieldNums": [
+        "20",
+        "24",
+        "26",
+        "35",
+        "49"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/16/2017",
+      "fieldNums": [
+        "09",
+        "15",
+        "43",
+        "60",
+        "64"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/19/2017",
+      "fieldNums": [
+        "17",
+        "19",
+        "39",
+        "43",
+        "68"
+      ],
+      "bonusBall": "13",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "08/23/2017",
+      "fieldNums": [
+        "06",
+        "07",
+        "16",
+        "23",
+        "26"
+      ],
+      "bonusBall": "04",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "08/26/2017",
+      "fieldNums": [
+        "07",
+        "15",
+        "32",
+        "38",
+        "66"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/30/2017",
+      "fieldNums": [
+        "19",
+        "28",
+        "43",
+        "67",
+        "69"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/02/2017",
+      "fieldNums": [
+        "06",
+        "21",
+        "41",
+        "52",
+        "62"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/06/2017",
+      "fieldNums": [
+        "08",
+        "14",
+        "32",
+        "58",
+        "67"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/09/2017",
+      "fieldNums": [
+        "06",
+        "20",
+        "29",
+        "57",
+        "59"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/13/2017",
+      "fieldNums": [
+        "17",
+        "24",
+        "35",
+        "57",
+        "63"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/16/2017",
+      "fieldNums": [
+        "17",
+        "18",
+        "24",
+        "25",
+        "31"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/20/2017",
+      "fieldNums": [
+        "39",
+        "48",
+        "53",
+        "67",
+        "68"
+      ],
+      "bonusBall": "26",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/23/2017",
+      "fieldNums": [
+        "24",
+        "45",
+        "55",
+        "56",
+        "57"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/27/2017",
+      "fieldNums": [
+        "08",
+        "10",
+        "21",
+        "23",
+        "25"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/30/2017",
+      "fieldNums": [
+        "08",
+        "12",
+        "25",
+        "41",
+        "64"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/04/2017",
+      "fieldNums": [
+        "22",
+        "23",
+        "62",
+        "63",
+        "66"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/07/2017",
+      "fieldNums": [
+        "10",
+        "49",
+        "61",
+        "63",
+        "65"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/11/2017",
+      "fieldNums": [
+        "01",
+        "03",
+        "13",
+        "19",
+        "69"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/14/2017",
+      "fieldNums": [
+        "32",
+        "37",
+        "56",
+        "66",
+        "69"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/18/2017",
+      "fieldNums": [
+        "30",
+        "49",
+        "54",
+        "66",
+        "69"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/21/2017",
+      "fieldNums": [
+        "14",
+        "41",
+        "42",
+        "45",
+        "69"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/25/2017",
+      "fieldNums": [
+        "18",
+        "22",
+        "29",
+        "54",
+        "57"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/28/2017",
+      "fieldNums": [
+        "27",
+        "35",
+        "38",
+        "57",
+        "66"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/01/2017",
+      "fieldNums": [
+        "03",
+        "06",
+        "19",
+        "26",
+        "44"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/04/2017",
+      "fieldNums": [
+        "12",
+        "14",
+        "26",
+        "48",
+        "51"
+      ],
+      "bonusBall": "13",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/08/2017",
+      "fieldNums": [
+        "12",
+        "14",
+        "20",
+        "21",
+        "34"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/11/2017",
+      "fieldNums": [
+        "04",
+        "06",
+        "16",
+        "30",
+        "56"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/15/2017",
+      "fieldNums": [
+        "23",
+        "32",
+        "44",
+        "48",
+        "50"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/18/2017",
+      "fieldNums": [
+        "17",
+        "28",
+        "31",
+        "32",
+        "39"
+      ],
+      "bonusBall": "26",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/22/2017",
+      "fieldNums": [
+        "35",
+        "37",
+        "46",
+        "51",
+        "61"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/25/2017",
+      "fieldNums": [
+        "08",
+        "13",
+        "27",
+        "53",
+        "54"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/29/2017",
+      "fieldNums": [
+        "24",
+        "26",
+        "28",
+        "59",
+        "63"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/02/2017",
+      "fieldNums": [
+        "28",
+        "30",
+        "32",
+        "36",
+        "58"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/06/2017",
+      "fieldNums": [
+        "19",
+        "20",
+        "50",
+        "55",
+        "62"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/09/2017",
+      "fieldNums": [
+        "25",
+        "36",
+        "37",
+        "55",
+        "60"
+      ],
+      "bonusBall": "06",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "12/13/2017",
+      "fieldNums": [
+        "02",
+        "24",
+        "28",
+        "51",
+        "58"
+      ],
+      "bonusBall": "07",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/16/2017",
+      "fieldNums": [
+        "09",
+        "35",
+        "37",
+        "50",
+        "63"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/20/2017",
+      "fieldNums": [
+        "01",
+        "20",
+        "61",
+        "64",
+        "69"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/23/2017",
+      "fieldNums": [
+        "01",
+        "03",
+        "13",
+        "15",
+        "44"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/27/2017",
+      "fieldNums": [
+        "03",
+        "09",
+        "16",
+        "56",
+        "60"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/30/2017",
+      "fieldNums": [
+        "28",
+        "36",
+        "41",
+        "51",
+        "58"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/03/2018",
+      "fieldNums": [
+        "02",
+        "18",
+        "37",
+        "39",
+        "42"
+      ],
+      "bonusBall": "12",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/06/2018",
+      "fieldNums": [
+        "12",
+        "61",
+        "30",
+        "29",
+        "33"
+      ],
+      "bonusBall": "26",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/10/2018",
+      "fieldNums": [
+        "07",
+        "24",
+        "33",
+        "49",
+        "50"
+      ],
+      "bonusBall": "04",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "01/13/2018",
+      "fieldNums": [
+        "14",
+        "25",
+        "35",
+        "58",
+        "69"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/17/2018",
+      "fieldNums": [
+        "03",
+        "33",
+        "37",
+        "51",
+        "57"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/20/2018",
+      "fieldNums": [
+        "26",
+        "28",
+        "47",
+        "49",
+        "58"
+      ],
+      "bonusBall": "03",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "01/24/2018",
+      "fieldNums": [
+        "05",
+        "09",
+        "11",
+        "33",
+        "64"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/27/2018",
+      "fieldNums": [
+        "17",
+        "21",
+        "26",
+        "47",
+        "54"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/31/2018",
+      "fieldNums": [
+        "04",
+        "07",
+        "14",
+        "46",
+        "59"
+      ],
+      "bonusBall": "22",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "02/03/2018",
+      "fieldNums": [
+        "15",
+        "23",
+        "27",
+        "48",
+        "53"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/07/2018",
+      "fieldNums": [
+        "23",
+        "34",
+        "35",
+        "40",
+        "47"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/10/2018",
+      "fieldNums": [
+        "01",
+        "13",
+        "27",
+        "41",
+        "59"
+      ],
+      "bonusBall": "20",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "02/14/2018",
+      "fieldNums": [
+        "37",
+        "39",
+        "44",
+        "46",
+        "69"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/17/2018",
+      "fieldNums": [
+        "13",
+        "26",
+        "39",
+        "44",
+        "62"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/21/2018",
+      "fieldNums": [
+        "07",
+        "15",
+        "31",
+        "34",
+        "36"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/24/2018",
+      "fieldNums": [
+        "24",
+        "25",
+        "38",
+        "62",
+        "63"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/28/2018",
+      "fieldNums": [
+        "12",
+        "30",
+        "59",
+        "65",
+        "69"
+      ],
+      "bonusBall": "16",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "03/03/2018",
+      "fieldNums": [
+        "13",
+        "17",
+        "25",
+        "36",
+        "40"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/07/2018",
+      "fieldNums": [
+        "06",
+        "13",
+        "19",
+        "36",
+        "51"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/10/2018",
+      "fieldNums": [
+        "43",
+        "44",
+        "54",
+        "61",
+        "69"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/14/2018",
+      "fieldNums": [
+        "06",
+        "12",
+        "24",
+        "41",
+        "68"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/17/2018",
+      "fieldNums": [
+        "22",
+        "57",
+        "59",
+        "60",
+        "66"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/21/2018",
+      "fieldNums": [
+        "03",
+        "04",
+        "18",
+        "29",
+        "61"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/24/2018",
+      "fieldNums": [
+        "10",
+        "33",
+        "45",
+        "53",
+        "56"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/28/2018",
+      "fieldNums": [
+        "06",
+        "08",
+        "26",
+        "52",
+        "53"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/31/2018",
+      "fieldNums": [
+        "08",
+        "24",
+        "52",
+        "55",
+        "61"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/04/2018",
+      "fieldNums": [
+        "08",
+        "24",
+        "42",
+        "54",
+        "64"
+      ],
+      "bonusBall": "24",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "04/07/2018",
+      "fieldNums": [
+        "02",
+        "17",
+        "20",
+        "38",
+        "39"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/11/2018",
+      "fieldNums": [
+        "16",
+        "18",
+        "27",
+        "55",
+        "67"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/14/2018",
+      "fieldNums": [
+        "17",
+        "19",
+        "26",
+        "61",
+        "62"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/18/2018",
+      "fieldNums": [
+        "09",
+        "10",
+        "12",
+        "17",
+        "23"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/21/2018",
+      "fieldNums": [
+        "40",
+        "50",
+        "54",
+        "62",
+        "69"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/25/2018",
+      "fieldNums": [
+        "17",
+        "18",
+        "39",
+        "56",
+        "64"
+      ],
+      "bonusBall": "12",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/28/2018",
+      "fieldNums": [
+        "20",
+        "22",
+        "28",
+        "45",
+        "50"
+      ],
+      "bonusBall": "08",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "05/02/2018",
+      "fieldNums": [
+        "05",
+        "14",
+        "31",
+        "40",
+        "50"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/05/2018",
+      "fieldNums": [
+        "14",
+        "29",
+        "36",
+        "57",
+        "61"
+      ],
+      "bonusBall": "17",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "05/09/2018",
+      "fieldNums": [
+        "11",
+        "16",
+        "38",
+        "50",
+        "69"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/12/2018",
+      "fieldNums": [
+        "22",
+        "42",
+        "45",
+        "55",
+        "56"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/16/2018",
+      "fieldNums": [
+        "17",
+        "19",
+        "21",
+        "22",
+        "51"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/19/2018",
+      "fieldNums": [
+        "03",
+        "06",
+        "09",
+        "17",
+        "56"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/23/2018",
+      "fieldNums": [
+        "20",
+        "54",
+        "56",
+        "61",
+        "64"
+      ],
+      "bonusBall": "07",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "05/26/2018",
+      "fieldNums": [
+        "01",
+        "21",
+        "31",
+        "45",
+        "49"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/30/2018",
+      "fieldNums": [
+        "17",
+        "23",
+        "26",
+        "46",
+        "68"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/02/2018",
+      "fieldNums": [
+        "23",
+        "25",
+        "37",
+        "44",
+        "64"
+      ],
+      "bonusBall": "07",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "06/06/2018",
+      "fieldNums": [
+        "23",
+        "28",
+        "41",
+        "53",
+        "56"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/09/2018",
+      "fieldNums": [
+        "06",
+        "10",
+        "15",
+        "25",
+        "36"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/13/2018",
+      "fieldNums": [
+        "13",
+        "20",
+        "38",
+        "45",
+        "55"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/16/2018",
+      "fieldNums": [
+        "09",
+        "45",
+        "57",
+        "58",
+        "65"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/20/2018",
+      "fieldNums": [
+        "04",
+        "14",
+        "23",
+        "27",
+        "56"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/23/2018",
+      "fieldNums": [
+        "16",
+        "29",
+        "43",
+        "45",
+        "56"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/27/2018",
+      "fieldNums": [
+        "07",
+        "28",
+        "37",
+        "62",
+        "63"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/30/2018",
+      "fieldNums": [
+        "03",
+        "09",
+        "20",
+        "42",
+        "61"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/04/2018",
+      "fieldNums": [
+        "04",
+        "07",
+        "15",
+        "41",
+        "44"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/07/2018",
+      "fieldNums": [
+        "01",
+        "10",
+        "43",
+        "45",
+        "64"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/11/2018",
+      "fieldNums": [
+        "19",
+        "21",
+        "27",
+        "46",
+        "47"
+      ],
+      "bonusBall": "07",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "07/14/2018",
+      "fieldNums": [
+        "22",
+        "41",
+        "42",
+        "49",
+        "67"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/18/2018",
+      "fieldNums": [
+        "01",
+        "10",
+        "27",
+        "28",
+        "36"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/21/2018",
+      "fieldNums": [
+        "09",
+        "23",
+        "56",
+        "58",
+        "68"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/25/2018",
+      "fieldNums": [
+        "02",
+        "18",
+        "41",
+        "44",
+        "64"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/28/2018",
+      "fieldNums": [
+        "22",
+        "27",
+        "46",
+        "56",
+        "65"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/01/2018",
+      "fieldNums": [
+        "05",
+        "22",
+        "32",
+        "38",
+        "58"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/04/2018",
+      "fieldNums": [
+        "03",
+        "11",
+        "38",
+        "44",
+        "58"
+      ],
+      "bonusBall": "02",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "08/08/2018",
+      "fieldNums": [
+        "10",
+        "21",
+        "30",
+        "43",
+        "63"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/11/2018",
+      "fieldNums": [
+        "05",
+        "43",
+        "56",
+        "62",
+        "68"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/15/2018",
+      "fieldNums": [
+        "12",
+        "15",
+        "28",
+        "47",
+        "48"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/18/2018",
+      "fieldNums": [
+        "24",
+        "34",
+        "52",
+        "61",
+        "67"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/22/2018",
+      "fieldNums": [
+        "01",
+        "07",
+        "45",
+        "47",
+        "69"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/25/2018",
+      "fieldNums": [
+        "20",
+        "25",
+        "54",
+        "57",
+        "63"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/29/2018",
+      "fieldNums": [
+        "25",
+        "41",
+        "53",
+        "57",
+        "67"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/01/2018",
+      "fieldNums": [
+        "11",
+        "54",
+        "55",
+        "61",
+        "66"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/05/2018",
+      "fieldNums": [
+        "06",
+        "15",
+        "50",
+        "59",
+        "60"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/08/2018",
+      "fieldNums": [
+        "03",
+        "13",
+        "20",
+        "32",
+        "33"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/12/2018",
+      "fieldNums": [
+        "06",
+        "28",
+        "48",
+        "63",
+        "64"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/15/2018",
+      "fieldNums": [
+        "02",
+        "18",
+        "19",
+        "24",
+        "34"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/19/2018",
+      "fieldNums": [
+        "04",
+        "39",
+        "48",
+        "50",
+        "51"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/22/2018",
+      "fieldNums": [
+        "24",
+        "61",
+        "63",
+        "64",
+        "69"
+      ],
+      "bonusBall": "18",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "09/26/2018",
+      "fieldNums": [
+        "01",
+        "02",
+        "07",
+        "30",
+        "50"
+      ],
+      "bonusBall": "08",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "09/29/2018",
+      "fieldNums": [
+        "09",
+        "17",
+        "34",
+        "59",
+        "64"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/03/2018",
+      "fieldNums": [
+        "41",
+        "53",
+        "59",
+        "63",
+        "66"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/06/2018",
+      "fieldNums": [
+        "01",
+        "22",
+        "27",
+        "53",
+        "67"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/10/2018",
+      "fieldNums": [
+        "08",
+        "23",
+        "27",
+        "42",
+        "60"
+      ],
+      "bonusBall": "07",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/13/2018",
+      "fieldNums": [
+        "11",
+        "14",
+        "32",
+        "43",
+        "65"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/17/2018",
+      "fieldNums": [
+        "03",
+        "57",
+        "64",
+        "68",
+        "69"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/20/2018",
+      "fieldNums": [
+        "16",
+        "54",
+        "57",
+        "62",
+        "69"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/24/2018",
+      "fieldNums": [
+        "03",
+        "21",
+        "45",
+        "53",
+        "56"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/27/2018",
+      "fieldNums": [
+        "08",
+        "12",
+        "13",
+        "19",
+        "27"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/31/2018",
+      "fieldNums": [
+        "07",
+        "25",
+        "39",
+        "40",
+        "47"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/03/2018",
+      "fieldNums": [
+        "15",
+        "21",
+        "24",
+        "32",
+        "65"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/07/2018",
+      "fieldNums": [
+        "26",
+        "28",
+        "34",
+        "42",
+        "50"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/10/2018",
+      "fieldNums": [
+        "05",
+        "29",
+        "34",
+        "53",
+        "57"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/14/2018",
+      "fieldNums": [
+        "07",
+        "42",
+        "49",
+        "62",
+        "69"
+      ],
+      "bonusBall": "23",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "11/17/2018",
+      "fieldNums": [
+        "06",
+        "08",
+        "20",
+        "52",
+        "68"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/21/2018",
+      "fieldNums": [
+        "07",
+        "14",
+        "23",
+        "38",
+        "55"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/24/2018",
+      "fieldNums": [
+        "11",
+        "33",
+        "51",
+        "56",
+        "58"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/28/2018",
+      "fieldNums": [
+        "04",
+        "19",
+        "59",
+        "68",
+        "69"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/01/2018",
+      "fieldNums": [
+        "10",
+        "11",
+        "47",
+        "55",
+        "58"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/05/2018",
+      "fieldNums": [
+        "09",
+        "11",
+        "36",
+        "37",
+        "38"
+      ],
+      "bonusBall": "11",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "12/08/2018",
+      "fieldNums": [
+        "14",
+        "32",
+        "34",
+        "46",
+        "61"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/12/2018",
+      "fieldNums": [
+        "04",
+        "09",
+        "21",
+        "29",
+        "64"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/15/2018",
+      "fieldNums": [
+        "08",
+        "38",
+        "43",
+        "52",
+        "55"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/19/2018",
+      "fieldNums": [
+        "15",
+        "29",
+        "31",
+        "37",
+        "43"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/22/2018",
+      "fieldNums": [
+        "21",
+        "28",
+        "30",
+        "40",
+        "59"
+      ],
+      "bonusBall": "26",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/26/2018",
+      "fieldNums": [
+        "05",
+        "25",
+        "38",
+        "52",
+        "67"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/29/2018",
+      "fieldNums": [
+        "12",
+        "42",
+        "51",
+        "53",
+        "62"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/02/2019",
+      "fieldNums": [
+        "08",
+        "12",
+        "42",
+        "46",
+        "56"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/05/2019",
+      "fieldNums": [
+        "03",
+        "07",
+        "15",
+        "27",
+        "69"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/09/2019",
+      "fieldNums": [
+        "06",
+        "19",
+        "37",
+        "49",
+        "59"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/12/2019",
+      "fieldNums": [
+        "07",
+        "36",
+        "48",
+        "57",
+        "58"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/16/2019",
+      "fieldNums": [
+        "14",
+        "29",
+        "31",
+        "56",
+        "61"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/19/2019",
+      "fieldNums": [
+        "05",
+        "08",
+        "41",
+        "65",
+        "66"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/23/2019",
+      "fieldNums": [
+        "23",
+        "25",
+        "47",
+        "48",
+        "50"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/26/2019",
+      "fieldNums": [
+        "08",
+        "12",
+        "20",
+        "21",
+        "32"
+      ],
+      "bonusBall": "10",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "01/30/2019",
+      "fieldNums": [
+        "02",
+        "12",
+        "16",
+        "29",
+        "54"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/02/2019",
+      "fieldNums": [
+        "10",
+        "17",
+        "18",
+        "43",
+        "65"
+      ],
+      "bonusBall": "13",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "02/06/2019",
+      "fieldNums": [
+        "05",
+        "13",
+        "28",
+        "38",
+        "63"
+      ],
+      "bonusBall": "21",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "02/09/2019",
+      "fieldNums": [
+        "01",
+        "02",
+        "03",
+        "07",
+        "39"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/13/2019",
+      "fieldNums": [
+        "02",
+        "08",
+        "14",
+        "24",
+        "69"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/16/2019",
+      "fieldNums": [
+        "29",
+        "30",
+        "41",
+        "48",
+        "64"
+      ],
+      "bonusBall": "01",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "02/20/2019",
+      "fieldNums": [
+        "27",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/23/2019",
+      "fieldNums": [
+        "04",
+        "06",
+        "14",
+        "20",
+        "32"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/27/2019",
+      "fieldNums": [
+        "21",
+        "31",
+        "42",
+        "49",
+        "59"
+      ],
+      "bonusBall": "23",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "03/02/2019",
+      "fieldNums": [
+        "01",
+        "19",
+        "25",
+        "27",
+        "68"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/06/2019",
+      "fieldNums": [
+        "06",
+        "10",
+        "21",
+        "35",
+        "46"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/09/2019",
+      "fieldNums": [
+        "05",
+        "06",
+        "45",
+        "55",
+        "59"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/13/2019",
+      "fieldNums": [
+        "18",
+        "36",
+        "45",
+        "47",
+        "69"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/16/2019",
+      "fieldNums": [
+        "30",
+        "34",
+        "39",
+        "53",
+        "67"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/20/2019",
+      "fieldNums": [
+        "10",
+        "14",
+        "50",
+        "53",
+        "63"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/23/2019",
+      "fieldNums": [
+        "24",
+        "25",
+        "52",
+        "60",
+        "66"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/27/2019",
+      "fieldNums": [
+        "16",
+        "20",
+        "37",
+        "44",
+        "62"
+      ],
+      "bonusBall": "12",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/30/2019",
+      "fieldNums": [
+        "21",
+        "52",
+        "54",
+        "64",
+        "68"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/03/2019",
+      "fieldNums": [
+        "16",
+        "19",
+        "25",
+        "32",
+        "49"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/06/2019",
+      "fieldNums": [
+        "15",
+        "33",
+        "43",
+        "59",
+        "60"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/10/2019",
+      "fieldNums": [
+        "12",
+        "21",
+        "23",
+        "39",
+        "67"
+      ],
+      "bonusBall": "06",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "04/13/2019",
+      "fieldNums": [
+        "04",
+        "17",
+        "26",
+        "32",
+        "49"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/17/2019",
+      "fieldNums": [
+        "01",
+        "15",
+        "17",
+        "46",
+        "66"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/20/2019",
+      "fieldNums": [
+        "03",
+        "27",
+        "30",
+        "63",
+        "65"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/24/2019",
+      "fieldNums": [
+        "06",
+        "32",
+        "35",
+        "36",
+        "65"
+      ],
+      "bonusBall": "04",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "04/27/2019",
+      "fieldNums": [
+        "02",
+        "29",
+        "41",
+        "45",
+        "62"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/01/2019",
+      "fieldNums": [
+        "05",
+        "23",
+        "28",
+        "56",
+        "66"
+      ],
+      "bonusBall": "17",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "05/04/2019",
+      "fieldNums": [
+        "06",
+        "16",
+        "23",
+        "30",
+        "61"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/08/2019",
+      "fieldNums": [
+        "01",
+        "45",
+        "53",
+        "64",
+        "66"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/11/2019",
+      "fieldNums": [
+        "06",
+        "08",
+        "09",
+        "37",
+        "40"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/15/2019",
+      "fieldNums": [
+        "07",
+        "17",
+        "33",
+        "61",
+        "68"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/18/2019",
+      "fieldNums": [
+        "02",
+        "10",
+        "25",
+        "66",
+        "67"
+      ],
+      "bonusBall": "26",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "05/22/2019",
+      "fieldNums": [
+        "07",
+        "10",
+        "20",
+        "44",
+        "57"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/25/2019",
+      "fieldNums": [
+        "01",
+        "02",
+        "39",
+        "43",
+        "66"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/29/2019",
+      "fieldNums": [
+        "03",
+        "32",
+        "34",
+        "42",
+        "61"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/01/2019",
+      "fieldNums": [
+        "06",
+        "15",
+        "34",
+        "45",
+        "52"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/05/2019",
+      "fieldNums": [
+        "17",
+        "23",
+        "28",
+        "34",
+        "38"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/08/2019",
+      "fieldNums": [
+        "09",
+        "13",
+        "42",
+        "48",
+        "60"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/12/2019",
+      "fieldNums": [
+        "05",
+        "35",
+        "38",
+        "42",
+        "57"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/15/2019",
+      "fieldNums": [
+        "08",
+        "11",
+        "14",
+        "16",
+        "49"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/19/2019",
+      "fieldNums": [
+        "04",
+        "18",
+        "21",
+        "26",
+        "38"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/22/2019",
+      "fieldNums": [
+        "03",
+        "06",
+        "11",
+        "14",
+        "66"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/26/2019",
+      "fieldNums": [
+        "01",
+        "05",
+        "16",
+        "22",
+        "54"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/29/2019",
+      "fieldNums": [
+        "13",
+        "17",
+        "24",
+        "59",
+        "62"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/03/2019",
+      "fieldNums": [
+        "40",
+        "43",
+        "45",
+        "50",
+        "61"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/06/2019",
+      "fieldNums": [
+        "04",
+        "08",
+        "23",
+        "46",
+        "65"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/10/2019",
+      "fieldNums": [
+        "07",
+        "09",
+        "26",
+        "44",
+        "68"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/13/2019",
+      "fieldNums": [
+        "13",
+        "23",
+        "32",
+        "35",
+        "68"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/17/2019",
+      "fieldNums": [
+        "19",
+        "43",
+        "47",
+        "60",
+        "68"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/20/2019",
+      "fieldNums": [
+        "05",
+        "26",
+        "36",
+        "64",
+        "69"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/24/2019",
+      "fieldNums": [
+        "22",
+        "29",
+        "35",
+        "53",
+        "56"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/27/2019",
+      "fieldNums": [
+        "01",
+        "19",
+        "31",
+        "48",
+        "61"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/31/2019",
+      "fieldNums": [
+        "14",
+        "37",
+        "47",
+        "55",
+        "67"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/03/2019",
+      "fieldNums": [
+        "03",
+        "06",
+        "45",
+        "66",
+        "68"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/07/2019",
+      "fieldNums": [
+        "08",
+        "32",
+        "47",
+        "53",
+        "59"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/10/2019",
+      "fieldNums": [
+        "35",
+        "41",
+        "44",
+        "58",
+        "59"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/14/2019",
+      "fieldNums": [
+        "10",
+        "13",
+        "30",
+        "51",
+        "69"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/17/2019",
+      "fieldNums": [
+        "18",
+        "21",
+        "24",
+        "30",
+        "60"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/21/2019",
+      "fieldNums": [
+        "12",
+        "21",
+        "22",
+        "29",
+        "32"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/24/2019",
+      "fieldNums": [
+        "05",
+        "12",
+        "20",
+        "21",
+        "47"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/28/2019",
+      "fieldNums": [
+        "09",
+        "32",
+        "37",
+        "41",
+        "56"
+      ],
+      "bonusBall": "14",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "08/31/2019",
+      "fieldNums": [
+        "14",
+        "41",
+        "50",
+        "56",
+        "57"
+      ],
+      "bonusBall": "18",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "09/04/2019",
+      "fieldNums": [
+        "04",
+        "08",
+        "30",
+        "52",
+        "59"
+      ],
+      "bonusBall": "02",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "09/07/2019",
+      "fieldNums": [
+        "11",
+        "20",
+        "41",
+        "42",
+        "56"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/11/2019",
+      "fieldNums": [
+        "06",
+        "17",
+        "24",
+        "53",
+        "57"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/14/2019",
+      "fieldNums": [
+        "11",
+        "27",
+        "31",
+        "36",
+        "67"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/18/2019",
+      "fieldNums": [
+        "14",
+        "19",
+        "39",
+        "47",
+        "51"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/21/2019",
+      "fieldNums": [
+        "01",
+        "09",
+        "22",
+        "36",
+        "68"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/25/2019",
+      "fieldNums": [
+        "37",
+        "43",
+        "44",
+        "45",
+        "53"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/28/2019",
+      "fieldNums": [
+        "15",
+        "23",
+        "34",
+        "51",
+        "55"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/02/2019",
+      "fieldNums": [
+        "04",
+        "08",
+        "10",
+        "43",
+        "53"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/05/2019",
+      "fieldNums": [
+        "06",
+        "14",
+        "36",
+        "51",
+        "54"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/09/2019",
+      "fieldNums": [
+        "05",
+        "18",
+        "33",
+        "43",
+        "65"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/12/2019",
+      "fieldNums": [
+        "12",
+        "29",
+        "34",
+        "53",
+        "65"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/16/2019",
+      "fieldNums": [
+        "01",
+        "05",
+        "25",
+        "63",
+        "67"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/19/2019",
+      "fieldNums": [
+        "14",
+        "27",
+        "29",
+        "59",
+        "65"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/23/2019",
+      "fieldNums": [
+        "05",
+        "12",
+        "50",
+        "61",
+        "69"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/26/2019",
+      "fieldNums": [
+        "03",
+        "20",
+        "48",
+        "54",
+        "59"
+      ],
+      "bonusBall": "04",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "10/30/2019",
+      "fieldNums": [
+        "19",
+        "22",
+        "52",
+        "56",
+        "67"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/02/2019",
+      "fieldNums": [
+        "03",
+        "23",
+        "32",
+        "37",
+        "58"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/06/2019",
+      "fieldNums": [
+        "15",
+        "28",
+        "46",
+        "62",
+        "64"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/09/2019",
+      "fieldNums": [
+        "14",
+        "17",
+        "35",
+        "38",
+        "60"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/13/2019",
+      "fieldNums": [
+        "23",
+        "26",
+        "27",
+        "28",
+        "66"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/16/2019",
+      "fieldNums": [
+        "14",
+        "22",
+        "26",
+        "55",
+        "63"
+      ],
+      "bonusBall": "26",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/20/2019",
+      "fieldNums": [
+        "07",
+        "15",
+        "39",
+        "40",
+        "57"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/23/2019",
+      "fieldNums": [
+        "28",
+        "35",
+        "38",
+        "61",
+        "66"
+      ],
+      "bonusBall": "23",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/27/2019",
+      "fieldNums": [
+        "15",
+        "26",
+        "37",
+        "53",
+        "55"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/30/2019",
+      "fieldNums": [
+        "15",
+        "35",
+        "42",
+        "63",
+        "68"
+      ],
+      "bonusBall": "18",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "12/04/2019",
+      "fieldNums": [
+        "08",
+        "27",
+        "44",
+        "51",
+        "61"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/07/2019",
+      "fieldNums": [
+        "18",
+        "42",
+        "53",
+        "62",
+        "66"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/11/2019",
+      "fieldNums": [
+        "24",
+        "29",
+        "42",
+        "44",
+        "63"
+      ],
+      "bonusBall": "10",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "12/14/2019",
+      "fieldNums": [
+        "03",
+        "06",
+        "12",
+        "32",
+        "64"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/18/2019",
+      "fieldNums": [
+        "14",
+        "18",
+        "26",
+        "39",
+        "68"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/21/2019",
+      "fieldNums": [
+        "19",
+        "31",
+        "35",
+        "50",
+        "67"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/25/2019",
+      "fieldNums": [
+        "02",
+        "04",
+        "16",
+        "30",
+        "46"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/28/2019",
+      "fieldNums": [
+        "20",
+        "23",
+        "39",
+        "59",
+        "60"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/01/2020",
+      "fieldNums": [
+        "49",
+        "53",
+        "57",
+        "59",
+        "62"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/04/2020",
+      "fieldNums": [
+        "01",
+        "11",
+        "21",
+        "25",
+        "54"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/08/2020",
+      "fieldNums": [
+        "02",
+        "04",
+        "07",
+        "43",
+        "56"
+      ],
+      "bonusBall": "22",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "01/11/2020",
+      "fieldNums": [
+        "03",
+        "21",
+        "23",
+        "31",
+        "59"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/15/2020",
+      "fieldNums": [
+        "39",
+        "41",
+        "53",
+        "55",
+        "68"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/18/2020",
+      "fieldNums": [
+        "20",
+        "24",
+        "38",
+        "56",
+        "68"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/22/2020",
+      "fieldNums": [
+        "11",
+        "33",
+        "44",
+        "59",
+        "67"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/25/2020",
+      "fieldNums": [
+        "02",
+        "09",
+        "17",
+        "36",
+        "67"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/29/2020",
+      "fieldNums": [
+        "09",
+        "12",
+        "15",
+        "31",
+        "60"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/01/2020",
+      "fieldNums": [
+        "12",
+        "33",
+        "54",
+        "57",
+        "60"
+      ],
+      "bonusBall": "13",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "02/05/2020",
+      "fieldNums": [
+        "23",
+        "30",
+        "35",
+        "41",
+        "57"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/08/2020",
+      "fieldNums": [
+        "35",
+        "49",
+        "50",
+        "59",
+        "66"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/12/2020",
+      "fieldNums": [
+        "14",
+        "47",
+        "54",
+        "55",
+        "68"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/15/2020",
+      "fieldNums": [
+        "16",
+        "32",
+        "35",
+        "36",
+        "46"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/19/2020",
+      "fieldNums": [
+        "10",
+        "12",
+        "15",
+        "19",
+        "56"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/22/2020",
+      "fieldNums": [
+        "25",
+        "37",
+        "39",
+        "61",
+        "62"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/26/2020",
+      "fieldNums": [
+        "08",
+        "27",
+        "29",
+        "36",
+        "47"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/29/2020",
+      "fieldNums": [
+        "24",
+        "44",
+        "46",
+        "50",
+        "51"
+      ],
+      "bonusBall": "13",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/04/2020",
+      "fieldNums": [
+        "18",
+        "43",
+        "58",
+        "60",
+        "68"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/07/2020",
+      "fieldNums": [
+        "07",
+        "15",
+        "21",
+        "33",
+        "62"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/11/2020",
+      "fieldNums": [
+        "04",
+        "29",
+        "49",
+        "50",
+        "67"
+      ],
+      "bonusBall": "02",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "03/14/2020",
+      "fieldNums": [
+        "09",
+        "23",
+        "26",
+        "30",
+        "32"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/18/2020",
+      "fieldNums": [
+        "15",
+        "27",
+        "44",
+        "59",
+        "63"
+      ],
+      "bonusBall": "08",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "03/21/2020",
+      "fieldNums": [
+        "02",
+        "23",
+        "40",
+        "59",
+        "69"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/25/2020",
+      "fieldNums": [
+        "05",
+        "09",
+        "27",
+        "39",
+        "42"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/28/2020",
+      "fieldNums": [
+        "07",
+        "40",
+        "48",
+        "55",
+        "66"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/01/2020",
+      "fieldNums": [
+        "33",
+        "35",
+        "45",
+        "48",
+        "60"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/04/2020",
+      "fieldNums": [
+        "08",
+        "31",
+        "39",
+        "40",
+        "43"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/08/2020",
+      "fieldNums": [
+        "02",
+        "37",
+        "39",
+        "48",
+        "54"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/11/2020",
+      "fieldNums": [
+        "22",
+        "29",
+        "30",
+        "42",
+        "47"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/15/2020",
+      "fieldNums": [
+        "10",
+        "12",
+        "33",
+        "36",
+        "41"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/18/2020",
+      "fieldNums": [
+        "04",
+        "44",
+        "46",
+        "56",
+        "63"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/22/2020",
+      "fieldNums": [
+        "01",
+        "33",
+        "35",
+        "40",
+        "69"
+      ],
+      "bonusBall": "24",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "04/25/2020",
+      "fieldNums": [
+        "01",
+        "03",
+        "21",
+        "47",
+        "57"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/29/2020",
+      "fieldNums": [
+        "02",
+        "20",
+        "49",
+        "61",
+        "67"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/02/2020",
+      "fieldNums": [
+        "13",
+        "16",
+        "33",
+        "58",
+        "68"
+      ],
+      "bonusBall": "24",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "05/06/2020",
+      "fieldNums": [
+        "07",
+        "08",
+        "35",
+        "50",
+        "65"
+      ],
+      "bonusBall": "20",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "05/09/2020",
+      "fieldNums": [
+        "12",
+        "18",
+        "42",
+        "48",
+        "65"
+      ],
+      "bonusBall": "19",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "05/13/2020",
+      "fieldNums": [
+        "39",
+        "53",
+        "54",
+        "56",
+        "57"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/16/2020",
+      "fieldNums": [
+        "08",
+        "12",
+        "26",
+        "39",
+        "42"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/20/2020",
+      "fieldNums": [
+        "18",
+        "34",
+        "40",
+        "42",
+        "50"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/23/2020",
+      "fieldNums": [
+        "02",
+        "08",
+        "18",
+        "21",
+        "23"
+      ],
+      "bonusBall": "16",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "05/27/2020",
+      "fieldNums": [
+        "38",
+        "58",
+        "59",
+        "64",
+        "68"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/30/2020",
+      "fieldNums": [
+        "13",
+        "32",
+        "41",
+        "58",
+        "60"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/03/2020",
+      "fieldNums": [
+        "01",
+        "03",
+        "26",
+        "41",
+        "64"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/06/2020",
+      "fieldNums": [
+        "01",
+        "17",
+        "38",
+        "68",
+        "69"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/10/2020",
+      "fieldNums": [
+        "10",
+        "33",
+        "41",
+        "52",
+        "54"
+      ],
+      "bonusBall": "18",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "06/13/2020",
+      "fieldNums": [
+        "02",
+        "12",
+        "32",
+        "50",
+        "65"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/17/2020",
+      "fieldNums": [
+        "07",
+        "10",
+        "63",
+        "64",
+        "68"
+      ],
+      "bonusBall": "10",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/20/2020",
+      "fieldNums": [
+        "10",
+        "31",
+        "41",
+        "63",
+        "67"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/24/2020",
+      "fieldNums": [
+        "15",
+        "22",
+        "27",
+        "33",
+        "46"
+      ],
+      "bonusBall": "23",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/27/2020",
+      "fieldNums": [
+        "09",
+        "36",
+        "49",
+        "56",
+        "62"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/01/2020",
+      "fieldNums": [
+        "15",
+        "28",
+        "52",
+        "53",
+        "63"
+      ],
+      "bonusBall": "18",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "07/04/2020",
+      "fieldNums": [
+        "16",
+        "21",
+        "27",
+        "60",
+        "61"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/08/2020",
+      "fieldNums": [
+        "03",
+        "10",
+        "34",
+        "36",
+        "62"
+      ],
+      "bonusBall": "05",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "07/11/2020",
+      "fieldNums": [
+        "14",
+        "19",
+        "61",
+        "62",
+        "64"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/15/2020",
+      "fieldNums": [
+        "27",
+        "47",
+        "61",
+        "62",
+        "69"
+      ],
+      "bonusBall": "04",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "07/18/2020",
+      "fieldNums": [
+        "13",
+        "16",
+        "32",
+        "58",
+        "59"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/22/2020",
+      "fieldNums": [
+        "16",
+        "25",
+        "36",
+        "44",
+        "55"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/25/2020",
+      "fieldNums": [
+        "05",
+        "21",
+        "36",
+        "61",
+        "62"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/29/2020",
+      "fieldNums": [
+        "07",
+        "29",
+        "35",
+        "40",
+        "45"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/01/2020",
+      "fieldNums": [
+        "06",
+        "25",
+        "36",
+        "43",
+        "48"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/05/2020",
+      "fieldNums": [
+        "07",
+        "14",
+        "17",
+        "57",
+        "65"
+      ],
+      "bonusBall": "24",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "08/08/2020",
+      "fieldNums": [
+        "02",
+        "03",
+        "14",
+        "40",
+        "51"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/12/2020",
+      "fieldNums": [
+        "02",
+        "06",
+        "18",
+        "36",
+        "37"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/15/2020",
+      "fieldNums": [
+        "05",
+        "12",
+        "34",
+        "45",
+        "56"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/19/2020",
+      "fieldNums": [
+        "13",
+        "23",
+        "47",
+        "55",
+        "58"
+      ],
+      "bonusBall": "23",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "08/22/2020",
+      "fieldNums": [
+        "19",
+        "30",
+        "36",
+        "42",
+        "66"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/26/2020",
+      "fieldNums": [
+        "08",
+        "12",
+        "19",
+        "47",
+        "58"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/29/2020",
+      "fieldNums": [
+        "05",
+        "21",
+        "22",
+        "29",
+        "43"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/02/2020",
+      "fieldNums": [
+        "01",
+        "04",
+        "11",
+        "20",
+        "69"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/05/2020",
+      "fieldNums": [
+        "15",
+        "21",
+        "22",
+        "27",
+        "47"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/09/2020",
+      "fieldNums": [
+        "27",
+        "52",
+        "55",
+        "60",
+        "64"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/12/2020",
+      "fieldNums": [
+        "16",
+        "17",
+        "20",
+        "53",
+        "67"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/16/2020",
+      "fieldNums": [
+        "10",
+        "17",
+        "31",
+        "51",
+        "53"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/19/2020",
+      "fieldNums": [
+        "11",
+        "14",
+        "23",
+        "47",
+        "57"
+      ],
+      "bonusBall": "14",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "09/23/2020",
+      "fieldNums": [
+        "08",
+        "17",
+        "49",
+        "52",
+        "59"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/26/2020",
+      "fieldNums": [
+        "11",
+        "21",
+        "27",
+        "36",
+        "62"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/30/2020",
+      "fieldNums": [
+        "14",
+        "18",
+        "36",
+        "49",
+        "67"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/03/2020",
+      "fieldNums": [
+        "18",
+        "31",
+        "36",
+        "43",
+        "47"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/07/2020",
+      "fieldNums": [
+        "06",
+        "24",
+        "30",
+        "53",
+        "56"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/10/2020",
+      "fieldNums": [
+        "05",
+        "18",
+        "23",
+        "40",
+        "50"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/14/2020",
+      "fieldNums": [
+        "21",
+        "37",
+        "52",
+        "53",
+        "58"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/17/2020",
+      "fieldNums": [
+        "06",
+        "10",
+        "31",
+        "37",
+        "44"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/21/2020",
+      "fieldNums": [
+        "01",
+        "03",
+        "13",
+        "44",
+        "56"
+      ],
+      "bonusBall": "26",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/24/2020",
+      "fieldNums": [
+        "18",
+        "20",
+        "27",
+        "45",
+        "65"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/28/2020",
+      "fieldNums": [
+        "11",
+        "28",
+        "37",
+        "40",
+        "53"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/31/2020",
+      "fieldNums": [
+        "02",
+        "06",
+        "40",
+        "42",
+        "55"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/04/2020",
+      "fieldNums": [
+        "23",
+        "32",
+        "33",
+        "45",
+        "49"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/07/2020",
+      "fieldNums": [
+        "14",
+        "16",
+        "37",
+        "48",
+        "58"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/11/2020",
+      "fieldNums": [
+        "13",
+        "15",
+        "17",
+        "45",
+        "63"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/14/2020",
+      "fieldNums": [
+        "07",
+        "15",
+        "18",
+        "32",
+        "45"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/18/2020",
+      "fieldNums": [
+        "04",
+        "05",
+        "17",
+        "43",
+        "52"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/21/2020",
+      "fieldNums": [
+        "51",
+        "54",
+        "57",
+        "60",
+        "69"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/25/2020",
+      "fieldNums": [
+        "02",
+        "57",
+        "58",
+        "60",
+        "65"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/28/2020",
+      "fieldNums": [
+        "08",
+        "12",
+        "18",
+        "44",
+        "51"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/02/2020",
+      "fieldNums": [
+        "28",
+        "31",
+        "40",
+        "41",
+        "46"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/05/2020",
+      "fieldNums": [
+        "03",
+        "04",
+        "06",
+        "48",
+        "53"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/09/2020",
+      "fieldNums": [
+        "11",
+        "14",
+        "31",
+        "47",
+        "48"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/12/2020",
+      "fieldNums": [
+        "17",
+        "54",
+        "56",
+        "63",
+        "69"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/16/2020",
+      "fieldNums": [
+        "04",
+        "23",
+        "37",
+        "61",
+        "67"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/19/2020",
+      "fieldNums": [
+        "27",
+        "32",
+        "34",
+        "43",
+        "52"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/23/2020",
+      "fieldNums": [
+        "06",
+        "13",
+        "38",
+        "39",
+        "53"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/26/2020",
+      "fieldNums": [
+        "10",
+        "24",
+        "27",
+        "35",
+        "53"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/30/2020",
+      "fieldNums": [
+        "03",
+        "43",
+        "45",
+        "61",
+        "65"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/02/2021",
+      "fieldNums": [
+        "03",
+        "04",
+        "11",
+        "41",
+        "67"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/06/2021",
+      "fieldNums": [
+        "01",
+        "20",
+        "22",
+        "60",
+        "66"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/09/2021",
+      "fieldNums": [
+        "14",
+        "26",
+        "38",
+        "45",
+        "46"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/13/2021",
+      "fieldNums": [
+        "04",
+        "19",
+        "23",
+        "25",
+        "49"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/16/2021",
+      "fieldNums": [
+        "14",
+        "20",
+        "39",
+        "65",
+        "67"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/20/2021",
+      "fieldNums": [
+        "40",
+        "53",
+        "60",
+        "68",
+        "69"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/23/2021",
+      "fieldNums": [
+        "05",
+        "08",
+        "17",
+        "27",
+        "28"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/27/2021",
+      "fieldNums": [
+        "17",
+        "33",
+        "35",
+        "42",
+        "52"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/30/2021",
+      "fieldNums": [
+        "01",
+        "02",
+        "07",
+        "52",
+        "61"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/03/2021",
+      "fieldNums": [
+        "05",
+        "37",
+        "40",
+        "64",
+        "66"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/06/2021",
+      "fieldNums": [
+        "01",
+        "16",
+        "48",
+        "49",
+        "65"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/10/2021",
+      "fieldNums": [
+        "15",
+        "39",
+        "58",
+        "63",
+        "67"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/13/2021",
+      "fieldNums": [
+        "20",
+        "28",
+        "33",
+        "63",
+        "68"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/17/2021",
+      "fieldNums": [
+        "01",
+        "15",
+        "21",
+        "32",
+        "46"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/20/2021",
+      "fieldNums": [
+        "04",
+        "08",
+        "22",
+        "32",
+        "58"
+      ],
+      "bonusBall": "04",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "02/24/2021",
+      "fieldNums": [
+        "04",
+        "33",
+        "43",
+        "53",
+        "65"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/27/2021",
+      "fieldNums": [
+        "02",
+        "28",
+        "31",
+        "44",
+        "52"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/03/2021",
+      "fieldNums": [
+        "21",
+        "40",
+        "44",
+        "50",
+        "55"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/06/2021",
+      "fieldNums": [
+        "11",
+        "31",
+        "50",
+        "52",
+        "58"
+      ],
+      "bonusBall": "18",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "03/10/2021",
+      "fieldNums": [
+        "17",
+        "18",
+        "37",
+        "44",
+        "53"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/13/2021",
+      "fieldNums": [
+        "05",
+        "11",
+        "51",
+        "56",
+        "61"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/17/2021",
+      "fieldNums": [
+        "34",
+        "38",
+        "42",
+        "61",
+        "62"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/20/2021",
+      "fieldNums": [
+        "01",
+        "06",
+        "22",
+        "42",
+        "61"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/24/2021",
+      "fieldNums": [
+        "04",
+        "09",
+        "17",
+        "27",
+        "38"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/27/2021",
+      "fieldNums": [
+        "06",
+        "14",
+        "38",
+        "39",
+        "65"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/31/2021",
+      "fieldNums": [
+        "03",
+        "10",
+        "44",
+        "55",
+        "68"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/03/2021",
+      "fieldNums": [
+        "01",
+        "12",
+        "17",
+        "39",
+        "53"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/07/2021",
+      "fieldNums": [
+        "27",
+        "35",
+        "39",
+        "51",
+        "66"
+      ],
+      "bonusBall": "16",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "04/10/2021",
+      "fieldNums": [
+        "14",
+        "16",
+        "23",
+        "50",
+        "53"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/14/2021",
+      "fieldNums": [
+        "13",
+        "30",
+        "33",
+        "45",
+        "61"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/17/2021",
+      "fieldNums": [
+        "10",
+        "21",
+        "26",
+        "41",
+        "49"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/21/2021",
+      "fieldNums": [
+        "21",
+        "25",
+        "32",
+        "63",
+        "67"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/24/2021",
+      "fieldNums": [
+        "22",
+        "36",
+        "48",
+        "59",
+        "61"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/01/2021",
+      "fieldNums": [
+        "35",
+        "36",
+        "47",
+        "61",
+        "63"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/05/2021",
+      "fieldNums": [
+        "16",
+        "23",
+        "28",
+        "40",
+        "63"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/08/2021",
+      "fieldNums": [
+        "12",
+        "17",
+        "20",
+        "21",
+        "26"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/12/2021",
+      "fieldNums": [
+        "01",
+        "19",
+        "20",
+        "38",
+        "54"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/15/2021",
+      "fieldNums": [
+        "04",
+        "10",
+        "37",
+        "39",
+        "69"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/19/2021",
+      "fieldNums": [
+        "11",
+        "13",
+        "55",
+        "56",
+        "69"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/22/2021",
+      "fieldNums": [
+        "03",
+        "19",
+        "27",
+        "37",
+        "40"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/26/2021",
+      "fieldNums": [
+        "02",
+        "08",
+        "21",
+        "34",
+        "62"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/29/2021",
+      "fieldNums": [
+        "11",
+        "13",
+        "22",
+        "27",
+        "46"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/02/2021",
+      "fieldNums": [
+        "06",
+        "07",
+        "11",
+        "66",
+        "67"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/05/2021",
+      "fieldNums": [
+        "44",
+        "52",
+        "54",
+        "64",
+        "69"
+      ],
+      "bonusBall": "26",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/12/2021",
+      "fieldNums": [
+        "08",
+        "25",
+        "34",
+        "38",
+        "41"
+      ],
+      "bonusBall": "10",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/16/2021",
+      "fieldNums": [
+        "19",
+        "29",
+        "34",
+        "44",
+        "50"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/19/2021",
+      "fieldNums": [
+        "04",
+        "22",
+        "35",
+        "38",
+        "39"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/23/2021",
+      "fieldNums": [
+        "13",
+        "20",
+        "40",
+        "51",
+        "63"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/26/2021",
+      "fieldNums": [
+        "08",
+        "31",
+        "39",
+        "43",
+        "60"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/30/2021",
+      "fieldNums": [
+        "24",
+        "29",
+        "50",
+        "65",
+        "66"
+      ],
+      "bonusBall": "14",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "07/03/2021",
+      "fieldNums": [
+        "26",
+        "40",
+        "41",
+        "55",
+        "65"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/07/2021",
+      "fieldNums": [
+        "08",
+        "21",
+        "30",
+        "49",
+        "57"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/10/2021",
+      "fieldNums": [
+        "01",
+        "05",
+        "29",
+        "54",
+        "62"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/14/2021",
+      "fieldNums": [
+        "33",
+        "46",
+        "52",
+        "59",
+        "62"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/17/2021",
+      "fieldNums": [
+        "15",
+        "22",
+        "38",
+        "54",
+        "66"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/21/2021",
+      "fieldNums": [
+        "27",
+        "28",
+        "44",
+        "67",
+        "68"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/24/2021",
+      "fieldNums": [
+        "01",
+        "04",
+        "11",
+        "59",
+        "67"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/28/2021",
+      "fieldNums": [
+        "25",
+        "30",
+        "53",
+        "59",
+        "60"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/31/2021",
+      "fieldNums": [
+        "01",
+        "21",
+        "22",
+        "34",
+        "47"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/04/2021",
+      "fieldNums": [
+        "05",
+        "21",
+        "32",
+        "36",
+        "58"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/07/2021",
+      "fieldNums": [
+        "07",
+        "24",
+        "36",
+        "54",
+        "60"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/11/2021",
+      "fieldNums": [
+        "12",
+        "18",
+        "20",
+        "29",
+        "30"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/14/2021",
+      "fieldNums": [
+        "06",
+        "21",
+        "49",
+        "65",
+        "67"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/18/2021",
+      "fieldNums": [
+        "35",
+        "36",
+        "51",
+        "55",
+        "61"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/21/2021",
+      "fieldNums": [
+        "16",
+        "28",
+        "36",
+        "39",
+        "59"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/23/2021",
+      "fieldNums": [
+        "17",
+        "36",
+        "47",
+        "60",
+        "61"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/25/2021",
+      "fieldNums": [
+        "27",
+        "39",
+        "54",
+        "56",
+        "59"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/28/2021",
+      "fieldNums": [
+        "12",
+        "22",
+        "26",
+        "46",
+        "59"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/30/2021",
+      "fieldNums": [
+        "03",
+        "15",
+        "45",
+        "51",
+        "61"
+      ],
+      "bonusBall": "08",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/01/2021",
+      "fieldNums": [
+        "10",
+        "20",
+        "29",
+        "48",
+        "51"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/04/2021",
+      "fieldNums": [
+        "32",
+        "35",
+        "40",
+        "52",
+        "54"
+      ],
+      "bonusBall": "01",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "09/06/2021",
+      "fieldNums": [
+        "11",
+        "20",
+        "22",
+        "33",
+        "54"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/08/2021",
+      "fieldNums": [
+        "09",
+        "22",
+        "41",
+        "47",
+        "61"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/11/2021",
+      "fieldNums": [
+        "20",
+        "31",
+        "38",
+        "40",
+        "49"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/13/2021",
+      "fieldNums": [
+        "37",
+        "40",
+        "50",
+        "61",
+        "63"
+      ],
+      "bonusBall": "21",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/15/2021",
+      "fieldNums": [
+        "01",
+        "04",
+        "18",
+        "46",
+        "62"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/18/2021",
+      "fieldNums": [
+        "05",
+        "36",
+        "39",
+        "45",
+        "57"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/20/2021",
+      "fieldNums": [
+        "37",
+        "51",
+        "54",
+        "58",
+        "60"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/22/2021",
+      "fieldNums": [
+        "20",
+        "40",
+        "47",
+        "55",
+        "63"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/25/2021",
+      "fieldNums": [
+        "22",
+        "23",
+        "37",
+        "62",
+        "63"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/27/2021",
+      "fieldNums": [
+        "21",
+        "22",
+        "39",
+        "44",
+        "60"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/29/2021",
+      "fieldNums": [
+        "02",
+        "07",
+        "11",
+        "17",
+        "32"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/02/2021",
+      "fieldNums": [
+        "28",
+        "38",
+        "42",
+        "47",
+        "52"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/04/2021",
+      "fieldNums": [
+        "12",
+        "22",
+        "54",
+        "66",
+        "69"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/06/2021",
+      "fieldNums": [
+        "01",
+        "17",
+        "52",
+        "58",
+        "64"
+      ],
+      "bonusBall": "01",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "10/09/2021",
+      "fieldNums": [
+        "12",
+        "17",
+        "30",
+        "45",
+        "62"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/11/2021",
+      "fieldNums": [
+        "11",
+        "20",
+        "33",
+        "39",
+        "65"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/13/2021",
+      "fieldNums": [
+        "23",
+        "29",
+        "47",
+        "59",
+        "60"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/16/2021",
+      "fieldNums": [
+        "30",
+        "31",
+        "41",
+        "42",
+        "48"
+      ],
+      "bonusBall": "03",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/18/2021",
+      "fieldNums": [
+        "30",
+        "32",
+        "48",
+        "53",
+        "63"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/20/2021",
+      "fieldNums": [
+        "07",
+        "29",
+        "36",
+        "41",
+        "43"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/23/2021",
+      "fieldNums": [
+        "10",
+        "30",
+        "51",
+        "57",
+        "63"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/25/2021",
+      "fieldNums": [
+        "10",
+        "27",
+        "29",
+        "44",
+        "58"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/27/2021",
+      "fieldNums": [
+        "03",
+        "06",
+        "26",
+        "35",
+        "51"
+      ],
+      "bonusBall": "17",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "10/30/2021",
+      "fieldNums": [
+        "05",
+        "23",
+        "28",
+        "43",
+        "56"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/01/2021",
+      "fieldNums": [
+        "09",
+        "25",
+        "34",
+        "44",
+        "45"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/03/2021",
+      "fieldNums": [
+        "01",
+        "02",
+        "24",
+        "50",
+        "57"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/06/2021",
+      "fieldNums": [
+        "08",
+        "30",
+        "48",
+        "57",
+        "64"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/08/2021",
+      "fieldNums": [
+        "21",
+        "46",
+        "47",
+        "57",
+        "62"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/10/2021",
+      "fieldNums": [
+        "19",
+        "25",
+        "43",
+        "46",
+        "48"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/13/2021",
+      "fieldNums": [
+        "08",
+        "15",
+        "26",
+        "35",
+        "45"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/15/2021",
+      "fieldNums": [
+        "05",
+        "31",
+        "34",
+        "51",
+        "53"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/17/2021",
+      "fieldNums": [
+        "03",
+        "16",
+        "48",
+        "52",
+        "60"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/20/2021",
+      "fieldNums": [
+        "40",
+        "43",
+        "48",
+        "59",
+        "69"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/22/2021",
+      "fieldNums": [
+        "07",
+        "20",
+        "29",
+        "38",
+        "67"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/24/2021",
+      "fieldNums": [
+        "10",
+        "16",
+        "32",
+        "63",
+        "65"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/27/2021",
+      "fieldNums": [
+        "08",
+        "32",
+        "55",
+        "64",
+        "66"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/29/2021",
+      "fieldNums": [
+        "18",
+        "26",
+        "28",
+        "38",
+        "47"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/01/2021",
+      "fieldNums": [
+        "12",
+        "15",
+        "38",
+        "57",
+        "63"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/04/2021",
+      "fieldNums": [
+        "10",
+        "40",
+        "45",
+        "56",
+        "67"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/06/2021",
+      "fieldNums": [
+        "03",
+        "21",
+        "38",
+        "50",
+        "59"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/08/2021",
+      "fieldNums": [
+        "03",
+        "07",
+        "33",
+        "50",
+        "69"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/11/2021",
+      "fieldNums": [
+        "03",
+        "25",
+        "44",
+        "53",
+        "64"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/13/2021",
+      "fieldNums": [
+        "10",
+        "30",
+        "37",
+        "53",
+        "59"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/15/2021",
+      "fieldNums": [
+        "19",
+        "20",
+        "40",
+        "42",
+        "59"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/18/2021",
+      "fieldNums": [
+        "02",
+        "06",
+        "24",
+        "51",
+        "61"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/20/2021",
+      "fieldNums": [
+        "02",
+        "13",
+        "23",
+        "34",
+        "66"
+      ],
+      "bonusBall": "02",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "12/22/2021",
+      "fieldNums": [
+        "07",
+        "16",
+        "19",
+        "48",
+        "68"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/25/2021",
+      "fieldNums": [
+        "27",
+        "29",
+        "45",
+        "55",
+        "58"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "12/27/2021",
+      "fieldNums": [
+        "36",
+        "38",
+        "45",
+        "62",
+        "64"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "12/29/2021",
+      "fieldNums": [
+        "02",
+        "06",
+        "09",
+        "33",
+        "39"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/01/2022",
+      "fieldNums": [
+        "06",
+        "12",
+        "39",
+        "48",
+        "50"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/03/2022",
+      "fieldNums": [
+        "02",
+        "13",
+        "32",
+        "33",
+        "48"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/05/2022",
+      "fieldNums": [
+        "06",
+        "14",
+        "25",
+        "33",
+        "46"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/08/2022",
+      "fieldNums": [
+        "20",
+        "21",
+        "36",
+        "60",
+        "65"
+      ],
+      "bonusBall": "13",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "01/10/2022",
+      "fieldNums": [
+        "14",
+        "17",
+        "18",
+        "21",
+        "27"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/12/2022",
+      "fieldNums": [
+        "12",
+        "21",
+        "22",
+        "30",
+        "33"
+      ],
+      "bonusBall": "24",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "01/15/2022",
+      "fieldNums": [
+        "03",
+        "18",
+        "37",
+        "51",
+        "59"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/17/2022",
+      "fieldNums": [
+        "09",
+        "24",
+        "35",
+        "46",
+        "65"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/19/2022",
+      "fieldNums": [
+        "11",
+        "15",
+        "43",
+        "55",
+        "61"
+      ],
+      "bonusBall": "10",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/22/2022",
+      "fieldNums": [
+        "08",
+        "14",
+        "33",
+        "36",
+        "67"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "01/24/2022",
+      "fieldNums": [
+        "11",
+        "29",
+        "30",
+        "47",
+        "53"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/26/2022",
+      "fieldNums": [
+        "04",
+        "11",
+        "38",
+        "49",
+        "69"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "01/29/2022",
+      "fieldNums": [
+        "02",
+        "15",
+        "38",
+        "54",
+        "65"
+      ],
+      "bonusBall": "11",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "01/31/2022",
+      "fieldNums": [
+        "10",
+        "15",
+        "51",
+        "61",
+        "69"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/02/2022",
+      "fieldNums": [
+        "18",
+        "29",
+        "33",
+        "62",
+        "63"
+      ],
+      "bonusBall": "15",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/05/2022",
+      "fieldNums": [
+        "05",
+        "16",
+        "27",
+        "39",
+        "61"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/07/2022",
+      "fieldNums": [
+        "05",
+        "15",
+        "38",
+        "47",
+        "65"
+      ],
+      "bonusBall": "10",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/09/2022",
+      "fieldNums": [
+        "02",
+        "17",
+        "33",
+        "51",
+        "63"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/12/2022",
+      "fieldNums": [
+        "08",
+        "10",
+        "21",
+        "41",
+        "62"
+      ],
+      "bonusBall": "07",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/14/2022",
+      "fieldNums": [
+        "16",
+        "25",
+        "27",
+        "49",
+        "55"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/16/2022",
+      "fieldNums": [
+        "22",
+        "30",
+        "40",
+        "42",
+        "48"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/19/2022",
+      "fieldNums": [
+        "03",
+        "10",
+        "15",
+        "33",
+        "42"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/21/2022",
+      "fieldNums": [
+        "02",
+        "36",
+        "37",
+        "45",
+        "69"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/23/2022",
+      "fieldNums": [
+        "06",
+        "17",
+        "21",
+        "35",
+        "64"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "02/26/2022",
+      "fieldNums": [
+        "15",
+        "32",
+        "36",
+        "48",
+        "64"
+      ],
+      "bonusBall": "19",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "02/28/2022",
+      "fieldNums": [
+        "07",
+        "21",
+        "39",
+        "47",
+        "55"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/02/2022",
+      "fieldNums": [
+        "19",
+        "37",
+        "48",
+        "61",
+        "63"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/05/2022",
+      "fieldNums": [
+        "08",
+        "23",
+        "37",
+        "52",
+        "63"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/07/2022",
+      "fieldNums": [
+        "10",
+        "43",
+        "55",
+        "59",
+        "67"
+      ],
+      "bonusBall": "02",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/09/2022",
+      "fieldNums": [
+        "13",
+        "22",
+        "34",
+        "51",
+        "67"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/14/2022",
+      "fieldNums": [
+        "21",
+        "28",
+        "32",
+        "44",
+        "49"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/16/2022",
+      "fieldNums": [
+        "03",
+        "28",
+        "34",
+        "35",
+        "58"
+      ],
+      "bonusBall": "17",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/19/2022",
+      "fieldNums": [
+        "08",
+        "09",
+        "18",
+        "48",
+        "52"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/21/2022",
+      "fieldNums": [
+        "01",
+        "15",
+        "26",
+        "63",
+        "65"
+      ],
+      "bonusBall": "16",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/23/2022",
+      "fieldNums": [
+        "31",
+        "32",
+        "37",
+        "38",
+        "48"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/26/2022",
+      "fieldNums": [
+        "02",
+        "10",
+        "50",
+        "59",
+        "61"
+      ],
+      "bonusBall": "06",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "03/28/2022",
+      "fieldNums": [
+        "11",
+        "18",
+        "39",
+        "58",
+        "62"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "03/30/2022",
+      "fieldNums": [
+        "03",
+        "07",
+        "21",
+        "31",
+        "37"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/02/2022",
+      "fieldNums": [
+        "06",
+        "28",
+        "47",
+        "58",
+        "59"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/04/2022",
+      "fieldNums": [
+        "02",
+        "32",
+        "39",
+        "46",
+        "69"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/06/2022",
+      "fieldNums": [
+        "06",
+        "42",
+        "45",
+        "47",
+        "64"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/11/2022",
+      "fieldNums": [
+        "05",
+        "07",
+        "24",
+        "31",
+        "34"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/13/2022",
+      "fieldNums": [
+        "14",
+        "16",
+        "41",
+        "63",
+        "68"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/16/2022",
+      "fieldNums": [
+        "15",
+        "21",
+        "32",
+        "62",
+        "65"
+      ],
+      "bonusBall": "26",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "04/18/2022",
+      "fieldNums": [
+        "08",
+        "33",
+        "55",
+        "59",
+        "62"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/20/2022",
+      "fieldNums": [
+        "20",
+        "30",
+        "45",
+        "55",
+        "56"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/23/2022",
+      "fieldNums": [
+        "10",
+        "39",
+        "47",
+        "49",
+        "56"
+      ],
+      "bonusBall": "08",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "04/25/2022",
+      "fieldNums": [
+        "12",
+        "18",
+        "20",
+        "39",
+        "61"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/27/2022",
+      "fieldNums": [
+        "11",
+        "36",
+        "61",
+        "62",
+        "68"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "04/30/2022",
+      "fieldNums": [
+        "14",
+        "21",
+        "37",
+        "44",
+        "63"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/02/2022",
+      "fieldNums": [
+        "18",
+        "27",
+        "33",
+        "39",
+        "44"
+      ],
+      "bonusBall": "08",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "05/04/2022",
+      "fieldNums": [
+        "37",
+        "39",
+        "55",
+        "63",
+        "69"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/07/2022",
+      "fieldNums": [
+        "04",
+        "05",
+        "06",
+        "28",
+        "67"
+      ],
+      "bonusBall": "10",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/09/2022",
+      "fieldNums": [
+        "18",
+        "30",
+        "35",
+        "52",
+        "56"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/11/2022",
+      "fieldNums": [
+        "05",
+        "07",
+        "61",
+        "63",
+        "69"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/14/2022",
+      "fieldNums": [
+        "06",
+        "40",
+        "41",
+        "45",
+        "52"
+      ],
+      "bonusBall": "09",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/16/2022",
+      "fieldNums": [
+        "07",
+        "15",
+        "22",
+        "36",
+        "64"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/18/2022",
+      "fieldNums": [
+        "40",
+        "41",
+        "58",
+        "64",
+        "65"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/21/2022",
+      "fieldNums": [
+        "14",
+        "15",
+        "25",
+        "52",
+        "58"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/23/2022",
+      "fieldNums": [
+        "01",
+        "33",
+        "37",
+        "39",
+        "42"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/25/2022",
+      "fieldNums": [
+        "19",
+        "28",
+        "39",
+        "42",
+        "57"
+      ],
+      "bonusBall": "17",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "05/28/2022",
+      "fieldNums": [
+        "02",
+        "39",
+        "50",
+        "61",
+        "66"
+      ],
+      "bonusBall": "15",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "05/30/2022",
+      "fieldNums": [
+        "27",
+        "28",
+        "51",
+        "68",
+        "69"
+      ],
+      "bonusBall": "22",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/01/2022",
+      "fieldNums": [
+        "11",
+        "41",
+        "56",
+        "57",
+        "63"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/04/2022",
+      "fieldNums": [
+        "14",
+        "16",
+        "36",
+        "52",
+        "60"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/06/2022",
+      "fieldNums": [
+        "02",
+        "10",
+        "35",
+        "44",
+        "46"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/08/2022",
+      "fieldNums": [
+        "22",
+        "39",
+        "43",
+        "62",
+        "64"
+      ],
+      "bonusBall": "07",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "06/11/2022",
+      "fieldNums": [
+        "18",
+        "20",
+        "26",
+        "53",
+        "69"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/13/2022",
+      "fieldNums": [
+        "02",
+        "27",
+        "42",
+        "44",
+        "51"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/15/2022",
+      "fieldNums": [
+        "19",
+        "28",
+        "41",
+        "42",
+        "51"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/18/2022",
+      "fieldNums": [
+        "10",
+        "19",
+        "40",
+        "45",
+        "58"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/20/2022",
+      "fieldNums": [
+        "03",
+        "44",
+        "61",
+        "63",
+        "69"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "06/22/2022",
+      "fieldNums": [
+        "06",
+        "10",
+        "31",
+        "48",
+        "56"
+      ],
+      "bonusBall": "12",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/25/2022",
+      "fieldNums": [
+        "06",
+        "12",
+        "20",
+        "27",
+        "32"
+      ],
+      "bonusBall": "04",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/27/2022",
+      "fieldNums": [
+        "11",
+        "13",
+        "18",
+        "30",
+        "37"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "06/29/2022",
+      "fieldNums": [
+        "08",
+        "40",
+        "49",
+        "58",
+        "63"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/02/2022",
+      "fieldNums": [
+        "09",
+        "10",
+        "37",
+        "59",
+        "62"
+      ],
+      "bonusBall": "26",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/04/2022",
+      "fieldNums": [
+        "15",
+        "16",
+        "24",
+        "31",
+        "56"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/06/2022",
+      "fieldNums": [
+        "32",
+        "36",
+        "49",
+        "62",
+        "69"
+      ],
+      "bonusBall": "13",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/09/2022",
+      "fieldNums": [
+        "14",
+        "22",
+        "42",
+        "46",
+        "52"
+      ],
+      "bonusBall": "24",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/11/2022",
+      "fieldNums": [
+        "04",
+        "26",
+        "34",
+        "37",
+        "52"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/13/2022",
+      "fieldNums": [
+        "22",
+        "23",
+        "36",
+        "47",
+        "63"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/16/2022",
+      "fieldNums": [
+        "03",
+        "18",
+        "23",
+        "32",
+        "57"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/18/2022",
+      "fieldNums": [
+        "14",
+        "34",
+        "36",
+        "50",
+        "58"
+      ],
+      "bonusBall": "05",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/20/2022",
+      "fieldNums": [
+        "10",
+        "20",
+        "23",
+        "49",
+        "65"
+      ],
+      "bonusBall": "22",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/23/2022",
+      "fieldNums": [
+        "39",
+        "41",
+        "54",
+        "59",
+        "62"
+      ],
+      "bonusBall": "12",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "07/25/2022",
+      "fieldNums": [
+        "25",
+        "37",
+        "38",
+        "39",
+        "65"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/27/2022",
+      "fieldNums": [
+        "01",
+        "25",
+        "44",
+        "55",
+        "57"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "07/30/2022",
+      "fieldNums": [
+        "04",
+        "17",
+        "57",
+        "58",
+        "68"
+      ],
+      "bonusBall": "12",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/01/2022",
+      "fieldNums": [
+        "15",
+        "21",
+        "31",
+        "36",
+        "65"
+      ],
+      "bonusBall": "16",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/03/2022",
+      "fieldNums": [
+        "09",
+        "21",
+        "56",
+        "57",
+        "66"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/06/2022",
+      "fieldNums": [
+        "08",
+        "15",
+        "46",
+        "56",
+        "68"
+      ],
+      "bonusBall": "03",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/08/2022",
+      "fieldNums": [
+        "32",
+        "45",
+        "51",
+        "57",
+        "58"
+      ],
+      "bonusBall": "12",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/10/2022",
+      "fieldNums": [
+        "29",
+        "44",
+        "59",
+        "61",
+        "68"
+      ],
+      "bonusBall": "19",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/13/2022",
+      "fieldNums": [
+        "19",
+        "24",
+        "35",
+        "43",
+        "62"
+      ],
+      "bonusBall": "02",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "08/15/2022",
+      "fieldNums": [
+        "20",
+        "24",
+        "47",
+        "50",
+        "63"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/17/2022",
+      "fieldNums": [
+        "23",
+        "28",
+        "41",
+        "50",
+        "55"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/20/2022",
+      "fieldNums": [
+        "05",
+        "09",
+        "11",
+        "16",
+        "66"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/22/2022",
+      "fieldNums": [
+        "12",
+        "27",
+        "34",
+        "55",
+        "67"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "08/24/2022",
+      "fieldNums": [
+        "06",
+        "24",
+        "35",
+        "37",
+        "44"
+      ],
+      "bonusBall": "22",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "08/27/2022",
+      "fieldNums": [
+        "02",
+        "18",
+        "56",
+        "60",
+        "65"
+      ],
+      "bonusBall": "14",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/29/2022",
+      "fieldNums": [
+        "13",
+        "36",
+        "43",
+        "61",
+        "69"
+      ],
+      "bonusBall": "18",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "08/31/2022",
+      "fieldNums": [
+        "07",
+        "08",
+        "19",
+        "24",
+        "28"
+      ],
+      "bonusBall": "01",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/03/2022",
+      "fieldNums": [
+        "18",
+        "27",
+        "49",
+        "65",
+        "69"
+      ],
+      "bonusBall": "09",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/05/2022",
+      "fieldNums": [
+        "04",
+        "07",
+        "32",
+        "55",
+        "64"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/07/2022",
+      "fieldNums": [
+        "03",
+        "16",
+        "30",
+        "33",
+        "36"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/10/2022",
+      "fieldNums": [
+        "38",
+        "42",
+        "56",
+        "68",
+        "69"
+      ],
+      "bonusBall": "04",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/12/2022",
+      "fieldNums": [
+        "06",
+        "14",
+        "16",
+        "34",
+        "66"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/14/2022",
+      "fieldNums": [
+        "09",
+        "10",
+        "20",
+        "22",
+        "52"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/17/2022",
+      "fieldNums": [
+        "05",
+        "25",
+        "36",
+        "51",
+        "61"
+      ],
+      "bonusBall": "01",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/19/2022",
+      "fieldNums": [
+        "07",
+        "15",
+        "36",
+        "46",
+        "67"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/21/2022",
+      "fieldNums": [
+        "06",
+        "33",
+        "34",
+        "45",
+        "54"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/24/2022",
+      "fieldNums": [
+        "03",
+        "09",
+        "21",
+        "24",
+        "29"
+      ],
+      "bonusBall": "14",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "09/26/2022",
+      "fieldNums": [
+        "13",
+        "20",
+        "31",
+        "33",
+        "59"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "09/28/2022",
+      "fieldNums": [
+        "06",
+        "10",
+        "24",
+        "33",
+        "67"
+      ],
+      "bonusBall": "11",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/01/2022",
+      "fieldNums": [
+        "08",
+        "21",
+        "22",
+        "65",
+        "69"
+      ],
+      "bonusBall": "26",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/03/2022",
+      "fieldNums": [
+        "02",
+        "16",
+        "22",
+        "55",
+        "63"
+      ],
+      "bonusBall": "22",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "10/05/2022",
+      "fieldNums": [
+        "26",
+        "30",
+        "33",
+        "37",
+        "62"
+      ],
+      "bonusBall": "06",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/08/2022",
+      "fieldNums": [
+        "13",
+        "43",
+        "53",
+        "60",
+        "68"
+      ],
+      "bonusBall": "05",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/10/2022",
+      "fieldNums": [
+        "03",
+        "06",
+        "11",
+        "17",
+        "22"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/12/2022",
+      "fieldNums": [
+        "14",
+        "30",
+        "41",
+        "42",
+        "59"
+      ],
+      "bonusBall": "06",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "10/15/2022",
+      "fieldNums": [
+        "32",
+        "37",
+        "40",
+        "58",
+        "62"
+      ],
+      "bonusBall": "15",
+      "multiplier": "5"
+    },
+    {
+      "drawDate": "10/17/2022",
+      "fieldNums": [
+        "19",
+        "30",
+        "36",
+        "46",
+        "60"
+      ],
+      "bonusBall": "25",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/19/2022",
+      "fieldNums": [
+        "06",
+        "08",
+        "15",
+        "27",
+        "42"
+      ],
+      "bonusBall": "10",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/22/2022",
+      "fieldNums": [
+        "19",
+        "25",
+        "48",
+        "55",
+        "60"
+      ],
+      "bonusBall": "18",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/24/2022",
+      "fieldNums": [
+        "18",
+        "23",
+        "35",
+        "45",
+        "54"
+      ],
+      "bonusBall": "16",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "10/26/2022",
+      "fieldNums": [
+        "19",
+        "36",
+        "37",
+        "46",
+        "56"
+      ],
+      "bonusBall": "24",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "10/29/2022",
+      "fieldNums": [
+        "19",
+        "31",
+        "40",
+        "46",
+        "57"
+      ],
+      "bonusBall": "23",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "10/31/2022",
+      "fieldNums": [
+        "13",
+        "19",
+        "36",
+        "39",
+        "59"
+      ],
+      "bonusBall": "13",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/02/2022",
+      "fieldNums": [
+        "02",
+        "11",
+        "22",
+        "35",
+        "60"
+      ],
+      "bonusBall": "23",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/05/2022",
+      "fieldNums": [
+        "28",
+        "45",
+        "53",
+        "56",
+        "69"
+      ],
+      "bonusBall": "20",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/09/2022",
+      "fieldNums": [
+        "07",
+        "14",
+        "24",
+        "30",
+        "56"
+      ],
+      "bonusBall": "07",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/12/2022",
+      "fieldNums": [
+        "16",
+        "20",
+        "44",
+        "57",
+        "58"
+      ],
+      "bonusBall": "06",
+      "multiplier": "4"
+    },
+    {
+      "drawDate": "11/14/2022",
+      "fieldNums": [
+        "19",
+        "35",
+        "53",
+        "54",
+        "67"
+      ],
+      "bonusBall": "21",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/16/2022",
+      "fieldNums": [
+        "28",
+        "34",
+        "51",
+        "53",
+        "56"
+      ],
+      "bonusBall": "11",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/19/2022",
+      "fieldNums": [
+        "07",
+        "28",
+        "62",
+        "63",
+        "64"
+      ],
+      "bonusBall": "10",
+      "multiplier": "3"
+    },
+    {
+      "drawDate": "11/21/2022",
+      "fieldNums": [
+        "01",
+        "06",
+        "40",
+        "51",
+        "67"
+      ],
+      "bonusBall": "02",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/23/2022",
+      "fieldNums": [
+        "01",
+        "02",
+        "31",
+        "39",
+        "66"
+      ],
+      "bonusBall": "25",
+      "multiplier": "2"
+    },
+    {
+      "drawDate": "11/26/2022",
+      "fieldNums": [
+        "15",
+        "30",
+        "47",
+        "50",
+        "51"
+      ],
+      "bonusBall": "03",
+      "multiplier": "10"
+    },
+    {
+      "drawDate": "11/28/2022",
+      "fieldNums": [
+        "29",
+        "30",
+        "32",
+        "48",
+        "50"
+      ],
+      "bonusBall": "20",
+      "multiplier": "2"
+    }
+  ],
   "lastDrawDate": "11/28/2022",
   "fieldNumsOverdue": {
     "numbers": [

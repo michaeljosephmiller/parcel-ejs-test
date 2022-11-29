@@ -13,11 +13,14 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "18.12.1"
-      - name: run scripts and commit changes
+      - name: install node packages
+        run: npm i
+      - name: update game data files
+        run: npm run updateGameData
+      - name: build static site
+        run: npm run build
+      - name: commit and push changes
         run: |
-          npm i
-          node src/scripts/utils/updateDataFiles.js
-          npm run build
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add --all
