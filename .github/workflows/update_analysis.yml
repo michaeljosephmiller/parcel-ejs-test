@@ -7,10 +7,13 @@ jobs:
   run-update-scripts:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: checkout repo
+        uses: actions/checkout@v3
+      - name: setup node
+        uses: actions/setup-node@v3
         with:
           node-version: "18.12.1"
+      - name: run scripts and commit changes
         run: |
           npm i
           node src/scripts/utils/updateDataFiles.js
