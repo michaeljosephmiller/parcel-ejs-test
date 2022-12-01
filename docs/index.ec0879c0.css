@@ -26,9 +26,15 @@
 .main .card {
   text-align: center;
   min-width: 280px;
+  border: 1px solid #ccc;
   border-radius: 1rem;
   margin: 1rem;
-  box-shadow: 0 5px 15px -5px #000;
+  transition: all .1s linear;
+}
+
+.main .card:hover {
+  scale: 1.01;
+  box-shadow: 0 10px 10px -5px #000;
 }
 
 .main .card .section {

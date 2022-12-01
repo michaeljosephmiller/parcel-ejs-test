@@ -1,5 +1,5 @@
 const getLotteryData = require("./lotteryDataApi")
-const analyzeNumbers = require("./NumberAnalysis")
+const analyzeNumbers = require("./analyzeNumbers")
 const Drawing = require("./Drawing")
 
 const drawDateAscSort = (a, b) => {
@@ -41,12 +41,11 @@ class Game {
   async updateHistory() {
     // Get game history from data api
     const results = await getLotteryData(this.apiId, this.analysisStartDate)
-    this.history = results
+    this.history = Drawing.formatHistory(results)
   }
 
   updateAnalysis() {
-    console.log(`Updating ${this.name} analysis.`)
-    this.history = Drawing.toDrawingsArray(this.history)
+    console.log(`Updating ${this.name} analysis...`)
     // Sort results by draw date ascending
     this.history.sort(drawDateAscSort)
     this.lastDrawDate = this.findLastDrawDate()

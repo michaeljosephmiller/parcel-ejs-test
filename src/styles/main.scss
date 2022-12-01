@@ -31,7 +31,12 @@ $universal-border: 1px solid #ccc;
     border-radius: 1rem;
     text-align: center;
     min-width: 280px;
-    box-shadow: 0px 5px 15px -5px #000;
+    border: $universal-border;
+    transition: all 0.1s linear;
+    &:hover {
+      box-shadow: 0px 10px 10px -5px #000;
+      scale: 1.01;
+    }
     .section {
       padding: 1rem;
       width: 100%;

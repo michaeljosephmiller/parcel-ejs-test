@@ -2,14 +2,14 @@
 
 class Drawing {
   // Drawing class definition
-  drawDate;
-  fieldNums;
-  bonusBall;
-  multiplier;
+  drawDate
+  fieldNums
+  bonusBall
+  multiplier
   constructor(drawDate, fieldNumStr, multiplier = "", bonusBall = "") {
-    this.drawDate = this.formatDate(drawDate);
-    this.setBallNums(fieldNumStr, bonusBall);
-    this.multiplier = multiplier;
+    this.drawDate = this.formatDate(drawDate)
+    this.setBallNums(fieldNumStr, bonusBall)
+    this.multiplier = multiplier
   }
 
   formatDate(date) {
@@ -17,28 +17,28 @@ class Drawing {
       year: "numeric",
       month: "2-digit",
       day: "2-digit",
-    });
-    return date;
+    })
+    return date
   }
 
   setBallNums(fieldNumStr, bonusBall) {
-    let fieldNums = fieldNumStr.split(" ");
+    let fieldNums = fieldNumStr.split(" ")
     if (fieldNums.length == 6 && !bonusBall) {
-      this.fieldNums = fieldNums.slice(0, 5);
-      this.bonusBall = fieldNums[5];
+      this.fieldNums = fieldNums.slice(0, 5)
+      this.bonusBall = fieldNums[5]
     } else if (fieldNums.length == 5 && bonusBall) {
-      this.fieldNums = [...fieldNums];
-      this.bonusBall = bonusBall;
+      this.fieldNums = [...fieldNums]
+      this.bonusBall = bonusBall
     } else {
-      console.log("Ball numbers not formatted correctly for:\n", this);
+      console.log("Ball numbers not formatted correctly for:\n", this)
     }
   }
 }
 
-const toDrawingsArray = (data) => {
+const formatHistory = (data) => {
   // Function to convert data from NY Lottery database to array of Drawing objects
-  let tempDrawing;
-  let drawings = [];
+  let tempDrawing
+  let drawings = []
   for (const drawing of data) {
     if (drawing.hasOwnProperty("mega_ball")) {
       tempDrawing = new Drawing(
@@ -46,22 +46,22 @@ const toDrawingsArray = (data) => {
         drawing["winning_numbers"],
         drawing["multiplier"],
         drawing["mega_ball"]
-      );
+      )
     } else if (drawing.hasOwnProperty("multiplier")) {
       tempDrawing = new Drawing(
         drawing["draw_date"],
         drawing["winning_numbers"],
         drawing["multiplier"]
-      );
+      )
     } else {
       tempDrawing = new Drawing(
         drawing["draw_date"],
         drawing["winning_numbers"]
-      );
+      )
     }
-    drawings.push(tempDrawing);
+    drawings.push(tempDrawing)
   }
-  return drawings;
-};
+  return drawings
+}
 
-module.exports = { Drawing, toDrawingsArray };
+module.exports = { Drawing, formatHistory }
