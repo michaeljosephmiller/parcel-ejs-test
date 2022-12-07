@@ -12,7 +12,7 @@
     "start": "parcel --dist-dir ./docs",
     "prebuild": "rm -rf ./docs",
     "build": "parcel build",
-    "update": "node utils/updateGameData.js"
+    "update": "node utils/update/updateGameData.js"
   },
   "targets": {
     "default": {
