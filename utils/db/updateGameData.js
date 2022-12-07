@@ -1,9 +1,9 @@
-import Game from './Game.js'
+import Game from '../Game/Game.js'
 import * as db from './gameDB.js'
 
 const readGameDataFiles = async () => {
   let games = []
-  const powerball = await db.readJsonFile('../src/_data/games/powerball.json')
+  const powerball = await db.readJsonFile('../../src/_data/games/powerball.json')
   powerball
     ? games.push(powerball)
     : console.error('Powerball file did not load!')
@@ -24,7 +24,7 @@ const updateGameData = async () => {
       await game.updateHistory()
       game.updateAnalysis()
       const success = await db.saveToJsonFile(
-        `../src/_data/games/${game.shortName}.json`,
+        `../../src/_data/games/${game.shortName}.json`,
         game
       )
       if (success) {

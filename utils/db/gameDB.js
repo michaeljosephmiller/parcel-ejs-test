@@ -12,7 +12,7 @@ const readJsonFile = async (filePath) => {
     let data = await fs
       .readFile(filePath, 'utf8')
       .then((data) => JSON.parse(data))
-      .catch((err) => console.error(error.message))
+      .catch((err) => console.error(err.message))
     return data
   }
   return data

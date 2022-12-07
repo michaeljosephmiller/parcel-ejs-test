@@ -8,9 +8,8 @@
 <body>
   <%- include('_includes/header') %>
   <main id='content' class='main'>
-    <% for (const game of games) { %>
-      <%- include('_includes/gameCard', { game: game }) %>
-    <% } %>
+    <% const title = 'Powerball' %>
+    <h1><%- title %></h1>
   </main>
   <%- include('_includes/footer') %>
 </body>

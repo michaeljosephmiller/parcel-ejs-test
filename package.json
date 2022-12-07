@@ -8,22 +8,19 @@
   "source": "src/index.ejs",
   "browserslist": "> 0.5%, last 6 versions, Firefox ESR, not dead",
   "scripts": {
-    "prestart": "rm -rf ./docs",
+    "prestart": "npm run cleanup",
     "start": "parcel --dist-dir ./docs",
-    "prebuild": "rm -rf ./docs",
+    "prebuild": "npm run cleanup",
+    "cleanup": "rm -rf ./docs",
     "build": "parcel build",
-    "update": "node utils/update/updateGameData.js"
+    "update": "node utils/db/updateGameData.js"
   },
   "targets": {
     "default": {
       "source": [
-        "src/index.ejs",
-        "src/pages/home.ejs",
-        "src/pages/powerball.ejs",
-        "src/pages/mega_millions.ejs"
+        "src/index.ejs"
       ],
       "distDir": "docs/",
-      "publicUrl": "./",
       "sourceMap": false
     }
   },

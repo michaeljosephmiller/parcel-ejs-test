@@ -1,6 +1,6 @@
 import analyzeNumbers from './analyzeNumbers.js'
 import Drawing from './Drawing.js'
-import getLotteryData from './getLotteryData.js'
+import getLotteryData from '../db/getLotteryData.js'
 
 const drawDateAscSort = (a, b) => {
   const aDate = new Date(a.drawDate).getTime()
