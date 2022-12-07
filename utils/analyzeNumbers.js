@@ -4,10 +4,10 @@ const analyzeNumbers = (numMax, history) => {
   const numberAnalysis = []
 
   for (let i = 1; i <= numMax; i += 1) {
-    const num = i.toString().padStart(2, "0")
+    const num = i.toString().padStart(2, '0')
     const analysis = {
       number: num,
-      lastHitDate: "",
+      lastHitDate: '',
       hitFreq: 0,
       totalHits: 0,
       noHitCount: 0,
@@ -39,4 +39,4 @@ const analyzeNumbers = (numMax, history) => {
   return numberAnalysis
 }
 
-module.exports = analyzeNumbers
+export default analyzeNumbers

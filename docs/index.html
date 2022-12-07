@@ -38,16 +38,16 @@
 <meta name="format-detection" content="telephone=no">
 
 <!-- Apple Touch Icon (reuse 192px icon.png) & standard favicons -->
-<link rel="apple-touch-icon" href="/apple-touch-icon.cc09a148.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.16b2bdff.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.0a6281a5.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.d251f007.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.5bf304cb.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.96b18f1d.png">
 
 <!-- Facebook Open Graph meta -->
 <meta property="og:url" content="/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Lottery Analyzer">
 <!-- <meta property="og:image"
-  content="/static/opengraph-default.jpg" /> -->
+  content="/images/opengraph-default.jpg" /> -->
 <meta property="og:description" content="Analysis of multi-state lottery games Powerball and Mega Millions">
 <meta property="og:site_name" content="Lottery Analyzer">
 <meta property="og:locale" content="en_US">
@@ -62,116 +62,37 @@
 <meta name="twitter:dnt" content="on">
 
 <title>Lottery Analyzer | Analysis of multi-state lottery games Powerball and Mega Millions</title>
-<link rel="shortcut icon" type="image/png" href="/favicon-16x16.0a6281a5.png">
-<link rel="stylesheet" href="/index.ec0879c0.css">
+<link rel="shortcut icon" type="image/png" href="favicon-16x16.96b18f1d.png">
+<link rel="stylesheet" href="index.c1b6866b.css">
+<script src="https://kit.fontawesome.com/14f3466853.js" crossorigin="anonymous"></script>
+<script defer="" src="index.f9881545.js"></script>
 </head>
 
 <body>
   <header class="header">
-  <img class="logo" src="/favicon-32x32.16b2bdff.png" alt="bar graph icon">
-  <h1 class="title">Lottery Analyzer</h1>
+  <div class="logo-title wrapper">
+    <img class="logo" src="favicon-32x32.5bf304cb.png" alt="bar graph icon">
+    <h1 class="title">Lottery Analyzer</h1>
+  </div>
+  <button class="mobile-nav-btn" aria-controls="primary-navigation" aria-expanded="false">
+    <i class="fa-solid fa-bars fa-2xl open-icon"></i>
+    <i class="fa-solid fa-x fa-2xl close-icon"></i>
+    <span class="visually-hidden">Menu</span>
+  </button>
+  <nav id="primary-navigation" class="primary-navigation">
+    <ul aria-label="Primary" role="list" class="nav-list">
+      <li><a href="/">Home</a></li>
+      <li><a href="/powerball">Powerball</a></li>
+      <li><a href="/mega_millions">Mega Millions</a></li>
+    </ul>
+  </nav>
 </header>
-  <main class="main">
-    
-    <section class="card">
-  <h2 class="title section">Powerball</h2>
-  <table class="info section">
-    <thead>
-      <tr>
-        <th colspan="2" class="title">Game Info</>
-      </th></tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="left">Days drawn:</td>
-        <td align="right">mon, wed, sat</td>
-      </tr>
-      <tr>
-        <td align="left">Last draw date:</td>
-        <td align="right">11/28/2022</td>
-      </tr>
-      <tr>
-        <td align="left">Analysis Start Date:</td>
-        <td align="right">10/04/2015</td>
-      </tr>
-      <tr>
-        <td align="left">Field Number Range:</td>
-        <td align="right">1 to 69</td>
-      </tr>
-      <td align="left">Bonus Ball Range:</td>
-      <td align="right">1 to 26</td>
-      
-    </tbody>
-  </table>
-  <div id="powerball-picks" class="section">
-    <h4>Picks</h4>
-    
-    
-    <div>04, 12, 38, 49, 61</div>
-    
-    <div>05, 09, 10, 21, 52</div>
-    
-    <div>03, 17, 33, 65, 68</div>
-    
-    <div>08, 26, 27, 41, 43</div>
-    
-    <div>18, 23, 37, 42, 55</div>
-    
-    <div></div>
-  </div>
-</section>
-    
-    <section class="card">
-  <h2 class="title section">Mega Millions</h2>
-  <table class="info section">
-    <thead>
-      <tr>
-        <th colspan="2" class="title">Game Info</>
-      </th></tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="left">Days drawn:</td>
-        <td align="right">tue, fri</td>
-      </tr>
-      <tr>
-        <td align="left">Last draw date:</td>
-        <td align="right">11/25/2022</td>
-      </tr>
-      <tr>
-        <td align="left">Analysis Start Date:</td>
-        <td align="right">10/31/2017</td>
-      </tr>
-      <tr>
-        <td align="left">Field Number Range:</td>
-        <td align="right">1 to 70</td>
-      </tr>
-      <td align="left">Bonus Ball Range:</td>
-      <td align="right">1 to 25</td>
-      
-    </tbody>
-  </table>
-  <div id="mega_millions-picks" class="section">
-    <h4>Picks</h4>
-    
-    
-    <div>10, 42, 49, 56, 62</div>
-    
-    <div>12, 27, 32, 48, 63</div>
-    
-    <div>39, 57, 60, 64, 65</div>
-    
-    <div>07, 08, 40, 52, 58</div>
-    
-    <div>03, 11</div>
-  </div>
-</section>
-    
-  </main>
+  <main id="content" class="main"></main>
   <footer class="footer">
   Made by
   <a href="https://github.com/michaeljosephmiller" target="_blank">Michael J Miller</a>
 </footer>
-<script src="/parcel-ejs-test.1844da61.js"></script></body>
+  <script src="index.d9f0d861.js"></script>
+<script src="parcel-ejs-test.bc2bb38d.js"></script></body>
 
 </html>

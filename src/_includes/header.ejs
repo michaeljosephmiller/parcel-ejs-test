@@ -1,4 +1,21 @@
 <header class='header'>
-  <img class='logo' src="images/favicon-32x32.png" alt="bar graph icon">
-  <h1 class='title'><%- site.title %></h1>
+  <div class='logo-title wrapper'>
+    <img class='logo' src="images/favicon-32x32.png" alt="bar graph icon">
+    <h1 class='title'><%- site.title %></h1>
+  </div>
+  <button
+    class='mobile-nav-btn'
+    aria-controls='primary-navigation'
+    aria-expanded='false'>
+    <i class="fa-solid fa-bars fa-2xl open-icon"></i>
+    <i class="fa-solid fa-x fa-2xl close-icon"></i>
+    <span class='visually-hidden'>Menu</span>
+  </button>
+  <nav id='primary-navigation' class='primary-navigation'>
+    <ul aria-label='Primary' role='list' class='nav-list'>
+      <li><a href="/">Home</a></li>
+      <li><a href="/powerball">Powerball</a></li>
+      <li><a href="/mega_millions">Mega Millions</a></li>
+    </ul>
+  </nav>
 </header>

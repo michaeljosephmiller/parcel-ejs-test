@@ -6369,9 +6369,45 @@
       ],
       "bonusBall": "18",
       "multiplier": "02"
+    },
+    {
+      "drawDate": "11/29/2022",
+      "fieldNums": [
+        "20",
+        "23",
+        "37",
+        "46",
+        "52"
+      ],
+      "bonusBall": "06",
+      "multiplier": "04"
+    },
+    {
+      "drawDate": "12/02/2022",
+      "fieldNums": [
+        "01",
+        "21",
+        "36",
+        "46",
+        "52"
+      ],
+      "bonusBall": "16",
+      "multiplier": "03"
+    },
+    {
+      "drawDate": "12/06/2022",
+      "fieldNums": [
+        "15",
+        "16",
+        "19",
+        "28",
+        "47"
+      ],
+      "bonusBall": "13",
+      "multiplier": "03"
     }
   ],
-  "lastDrawDate": "11/25/2022",
+  "lastDrawDate": "12/06/2022",
   "fieldNumsOverdue": {
     "numbers": [
       "49",
@@ -6391,44 +6427,52 @@
       "65",
       "08",
       "58",
-      "52",
-      "40",
       "07",
       "11",
-      "03"
+      "40",
+      "03",
+      "33",
+      "44",
+      "50",
+      "22",
+      "26"
     ],
     "overdueAmt": [
-      39,
-      33,
+      42,
+      35,
+      34,
       31,
-      28,
-      21,
-      17,
-      17,
+      24,
+      20,
+      20,
+      18,
       15,
-      13,
-      11,
-      11,
+      14,
+      14,
+      12,
+      12,
+      10,
+      10,
       9,
       9,
-      7,
-      7,
-      6,
-      6,
+      5,
+      5,
+      5,
       4,
       3,
       2,
       2,
+      1,
       1
     ]
   },
   "fieldNumAnalysis": [
     {
       "number": "01",
-      "lastHitDate": "11/11/2022",
+      "lastHitDate": "12/02/2022",
       "hitFreq": 14,
-      "totalHits": 37,
-      "noHitCount": 4,
+      "totalHits": 38,
+      "noHitCount": 1,
       "drawsOverdue": 0
     },
     {
@@ -6436,7 +6480,7 @@
       "lastHitDate": "11/18/2022",
       "hitFreq": 15,
       "totalHits": 35,
-      "noHitCount": 2,
+      "noHitCount": 5,
       "drawsOverdue": 0
     },
     {
@@ -6444,15 +6488,15 @@
       "lastHitDate": "10/11/2022",
       "hitFreq": 12,
       "totalHits": 44,
-      "noHitCount": 13,
-      "drawsOverdue": 1
+      "noHitCount": 16,
+      "drawsOverdue": 4
     },
     {
       "number": "04",
       "lastHitDate": "10/28/2022",
       "hitFreq": 11,
       "totalHits": 45,
-      "noHitCount": 8,
+      "noHitCount": 11,
       "drawsOverdue": 0
     },
     {
@@ -6460,7 +6504,7 @@
       "lastHitDate": "11/11/2022",
       "hitFreq": 16,
       "totalHits": 32,
-      "noHitCount": 4,
+      "noHitCount": 7,
       "drawsOverdue": 0
     },
     {
@@ -6468,7 +6512,7 @@
       "lastHitDate": "11/15/2022",
       "hitFreq": 14,
       "totalHits": 37,
-      "noHitCount": 3,
+      "noHitCount": 6,
       "drawsOverdue": 0
     },
     {
@@ -6476,23 +6520,23 @@
       "lastHitDate": "10/11/2022",
       "hitFreq": 11,
       "totalHits": 45,
-      "noHitCount": 13,
-      "drawsOverdue": 2
+      "noHitCount": 16,
+      "drawsOverdue": 5
     },
     {
       "number": "08",
       "lastHitDate": "09/27/2022",
       "hitFreq": 11,
       "totalHits": 45,
-      "noHitCount": 17,
-      "drawsOverdue": 6
+      "noHitCount": 20,
+      "drawsOverdue": 9
     },
     {
       "number": "09",
       "lastHitDate": "11/01/2022",
       "hitFreq": 15,
       "totalHits": 35,
-      "noHitCount": 7,
+      "noHitCount": 10,
       "drawsOverdue": 0
     },
     {
@@ -6500,31 +6544,31 @@
       "lastHitDate": "08/09/2022",
       "hitFreq": 10,
       "totalHits": 49,
-      "noHitCount": 31,
-      "drawsOverdue": 21
+      "noHitCount": 34,
+      "drawsOverdue": 24
     },
     {
       "number": "11",
       "lastHitDate": "10/11/2022",
       "hitFreq": 11,
       "totalHits": 45,
-      "noHitCount": 13,
-      "drawsOverdue": 2
+      "noHitCount": 16,
+      "drawsOverdue": 5
     },
     {
       "number": "12",
       "lastHitDate": "08/19/2022",
       "hitFreq": 17,
       "totalHits": 31,
-      "noHitCount": 28,
-      "drawsOverdue": 11
+      "noHitCount": 31,
+      "drawsOverdue": 14
     },
     {
       "number": "13",
       "lastHitDate": "11/22/2022",
       "hitFreq": 15,
       "totalHits": 35,
-      "noHitCount": 1,
+      "noHitCount": 4,
       "drawsOverdue": 0
     },
     {
@@ -6532,23 +6576,23 @@
       "lastHitDate": "11/18/2022",
       "hitFreq": 10,
       "totalHits": 51,
-      "noHitCount": 2,
+      "noHitCount": 5,
       "drawsOverdue": 0
     },
     {
       "number": "15",
-      "lastHitDate": "11/01/2022",
+      "lastHitDate": "12/06/2022",
       "hitFreq": 12,
-      "totalHits": 43,
-      "noHitCount": 7,
+      "totalHits": 44,
+      "noHitCount": 0,
       "drawsOverdue": 0
     },
     {
       "number": "16",
-      "lastHitDate": "11/18/2022",
+      "lastHitDate": "12/06/2022",
       "hitFreq": 13,
-      "totalHits": 38,
-      "noHitCount": 2,
+      "totalHits": 39,
+      "noHitCount": 0,
       "drawsOverdue": 0
     },
     {
@@ -6556,7 +6600,7 @@
       "lastHitDate": "11/11/2022",
       "hitFreq": 10,
       "totalHits": 51,
-      "noHitCount": 4,
+      "noHitCount": 7,
       "drawsOverdue": 0
     },
     {
@@ -6564,47 +6608,47 @@
       "lastHitDate": "10/28/2022",
       "hitFreq": 14,
       "totalHits": 37,
-      "noHitCount": 8,
+      "noHitCount": 11,
       "drawsOverdue": 0
     },
     {
       "number": "19",
-      "lastHitDate": "11/15/2022",
-      "hitFreq": 15,
-      "totalHits": 35,
-      "noHitCount": 3,
+      "lastHitDate": "12/06/2022",
+      "hitFreq": 14,
+      "totalHits": 36,
+      "noHitCount": 0,
       "drawsOverdue": 0
     },
     {
       "number": "20",
-      "lastHitDate": "11/04/2022",
-      "hitFreq": 12,
-      "totalHits": 44,
-      "noHitCount": 6,
+      "lastHitDate": "11/29/2022",
+      "hitFreq": 11,
+      "totalHits": 45,
+      "noHitCount": 2,
       "drawsOverdue": 0
     },
     {
       "number": "21",
-      "lastHitDate": "10/25/2022",
+      "lastHitDate": "12/02/2022",
       "hitFreq": 16,
-      "totalHits": 32,
-      "noHitCount": 9,
+      "totalHits": 33,
+      "noHitCount": 1,
       "drawsOverdue": 0
     },
     {
       "number": "22",
       "lastHitDate": "10/14/2022",
-      "hitFreq": 13,
+      "hitFreq": 14,
       "totalHits": 38,
-      "noHitCount": 12,
-      "drawsOverdue": 0
+      "noHitCount": 15,
+      "drawsOverdue": 1
     },
     {
       "number": "23",
-      "lastHitDate": "11/22/2022",
-      "hitFreq": 18,
-      "totalHits": 29,
-      "noHitCount": 1,
+      "lastHitDate": "11/29/2022",
+      "hitFreq": 17,
+      "totalHits": 30,
+      "noHitCount": 2,
       "drawsOverdue": 0
     },
     {
@@ -6612,7 +6656,7 @@
       "lastHitDate": "11/22/2022",
       "hitFreq": 12,
       "totalHits": 42,
-      "noHitCount": 1,
+      "noHitCount": 4,
       "drawsOverdue": 0
     },
     {
@@ -6620,31 +6664,31 @@
       "lastHitDate": "11/22/2022",
       "hitFreq": 12,
       "totalHits": 43,
-      "noHitCount": 1,
+      "noHitCount": 4,
       "drawsOverdue": 0
     },
     {
       "number": "26",
       "lastHitDate": "10/14/2022",
-      "hitFreq": 13,
+      "hitFreq": 14,
       "totalHits": 38,
-      "noHitCount": 12,
-      "drawsOverdue": 0
+      "noHitCount": 15,
+      "drawsOverdue": 1
     },
     {
       "number": "27",
       "lastHitDate": "08/26/2022",
-      "hitFreq": 13,
+      "hitFreq": 14,
       "totalHits": 38,
-      "noHitCount": 26,
-      "drawsOverdue": 13
+      "noHitCount": 29,
+      "drawsOverdue": 15
     },
     {
       "number": "28",
-      "lastHitDate": "11/15/2022",
+      "lastHitDate": "12/06/2022",
       "hitFreq": 13,
-      "totalHits": 40,
-      "noHitCount": 3,
+      "totalHits": 41,
+      "noHitCount": 0,
       "drawsOverdue": 0
     },
     {
@@ -6652,15 +6696,15 @@
       "lastHitDate": "11/25/2022",
       "hitFreq": 13,
       "totalHits": 39,
-      "noHitCount": 0,
+      "noHitCount": 3,
       "drawsOverdue": 0
     },
     {
       "number": "30",
       "lastHitDate": "10/25/2022",
-      "hitFreq": 13,
+      "hitFreq": 14,
       "totalHits": 38,
-      "noHitCount": 9,
+      "noHitCount": 12,
       "drawsOverdue": 0
     },
     {
@@ -6668,7 +6712,7 @@
       "lastHitDate": "11/25/2022",
       "hitFreq": 10,
       "totalHits": 49,
-      "noHitCount": 0,
+      "noHitCount": 3,
       "drawsOverdue": 0
     },
     {
@@ -6676,47 +6720,47 @@
       "lastHitDate": "08/09/2022",
       "hitFreq": 14,
       "totalHits": 36,
-      "noHitCount": 31,
-      "drawsOverdue": 17
+      "noHitCount": 34,
+      "drawsOverdue": 20
     },
     {
       "number": "33",
       "lastHitDate": "10/04/2022",
       "hitFreq": 15,
       "totalHits": 35,
-      "noHitCount": 15,
-      "drawsOverdue": 0
+      "noHitCount": 18,
+      "drawsOverdue": 3
     },
     {
       "number": "34",
       "lastHitDate": "10/21/2022",
       "hitFreq": 13,
       "totalHits": 40,
-      "noHitCount": 10,
+      "noHitCount": 13,
       "drawsOverdue": 0
     },
     {
       "number": "35",
       "lastHitDate": "10/25/2022",
-      "hitFreq": 18,
+      "hitFreq": 19,
       "totalHits": 28,
-      "noHitCount": 9,
+      "noHitCount": 12,
       "drawsOverdue": 0
     },
     {
       "number": "36",
-      "lastHitDate": "10/21/2022",
+      "lastHitDate": "12/02/2022",
       "hitFreq": 17,
-      "totalHits": 30,
-      "noHitCount": 10,
+      "totalHits": 31,
+      "noHitCount": 1,
       "drawsOverdue": 0
     },
     {
       "number": "37",
-      "lastHitDate": "11/11/2022",
+      "lastHitDate": "11/29/2022",
       "hitFreq": 13,
-      "totalHits": 38,
-      "noHitCount": 4,
+      "totalHits": 39,
+      "noHitCount": 2,
       "drawsOverdue": 0
     },
     {
@@ -6724,7 +6768,7 @@
       "lastHitDate": "11/18/2022",
       "hitFreq": 11,
       "totalHits": 48,
-      "noHitCount": 2,
+      "noHitCount": 5,
       "drawsOverdue": 0
     },
     {
@@ -6732,39 +6776,39 @@
       "lastHitDate": "09/02/2022",
       "hitFreq": 15,
       "totalHits": 35,
-      "noHitCount": 24,
-      "drawsOverdue": 9
+      "noHitCount": 27,
+      "drawsOverdue": 12
     },
     {
       "number": "40",
       "lastHitDate": "09/30/2022",
-      "hitFreq": 13,
+      "hitFreq": 14,
       "totalHits": 38,
-      "noHitCount": 16,
-      "drawsOverdue": 3
+      "noHitCount": 19,
+      "drawsOverdue": 5
     },
     {
       "number": "41",
       "lastHitDate": "10/14/2022",
       "hitFreq": 15,
       "totalHits": 34,
-      "noHitCount": 12,
+      "noHitCount": 15,
       "drawsOverdue": 0
     },
     {
       "number": "42",
       "lastHitDate": "06/21/2022",
-      "hitFreq": 12,
+      "hitFreq": 13,
       "totalHits": 41,
-      "noHitCount": 45,
-      "drawsOverdue": 33
+      "noHitCount": 48,
+      "drawsOverdue": 35
     },
     {
       "number": "43",
       "lastHitDate": "11/22/2022",
       "hitFreq": 11,
       "totalHits": 45,
-      "noHitCount": 1,
+      "noHitCount": 4,
       "drawsOverdue": 0
     },
     {
@@ -6772,31 +6816,31 @@
       "lastHitDate": "10/18/2022",
       "hitFreq": 12,
       "totalHits": 42,
-      "noHitCount": 11,
-      "drawsOverdue": 0
+      "noHitCount": 14,
+      "drawsOverdue": 2
     },
     {
       "number": "45",
       "lastHitDate": "10/25/2022",
       "hitFreq": 17,
       "totalHits": 31,
-      "noHitCount": 9,
+      "noHitCount": 12,
       "drawsOverdue": 0
     },
     {
       "number": "46",
-      "lastHitDate": "11/25/2022",
-      "hitFreq": 12,
-      "totalHits": 44,
-      "noHitCount": 0,
+      "lastHitDate": "12/02/2022",
+      "hitFreq": 11,
+      "totalHits": 46,
+      "noHitCount": 1,
       "drawsOverdue": 0
     },
     {
       "number": "47",
-      "lastHitDate": "11/04/2022",
-      "hitFreq": 16,
-      "totalHits": 33,
-      "noHitCount": 6,
+      "lastHitDate": "12/06/2022",
+      "hitFreq": 15,
+      "totalHits": 34,
+      "noHitCount": 0,
       "drawsOverdue": 0
     },
     {
@@ -6804,47 +6848,47 @@
       "lastHitDate": "08/23/2022",
       "hitFreq": 12,
       "totalHits": 43,
-      "noHitCount": 27,
-      "drawsOverdue": 15
+      "noHitCount": 30,
+      "drawsOverdue": 18
     },
     {
       "number": "49",
       "lastHitDate": "04/29/2022",
       "hitFreq": 21,
       "totalHits": 25,
-      "noHitCount": 60,
-      "drawsOverdue": 39
+      "noHitCount": 63,
+      "drawsOverdue": 42
     },
     {
       "number": "50",
       "lastHitDate": "09/23/2022",
-      "hitFreq": 18,
+      "hitFreq": 19,
       "totalHits": 28,
-      "noHitCount": 18,
-      "drawsOverdue": 0
+      "noHitCount": 21,
+      "drawsOverdue": 2
     },
     {
       "number": "51",
       "lastHitDate": "09/30/2022",
       "hitFreq": 22,
       "totalHits": 24,
-      "noHitCount": 16,
+      "noHitCount": 19,
       "drawsOverdue": 0
     },
     {
       "number": "52",
-      "lastHitDate": "09/20/2022",
-      "hitFreq": 15,
-      "totalHits": 34,
-      "noHitCount": 19,
-      "drawsOverdue": 4
+      "lastHitDate": "12/02/2022",
+      "hitFreq": 14,
+      "totalHits": 36,
+      "noHitCount": 1,
+      "drawsOverdue": 0
     },
     {
       "number": "53",
       "lastHitDate": "10/28/2022",
       "hitFreq": 12,
       "totalHits": 42,
-      "noHitCount": 8,
+      "noHitCount": 11,
       "drawsOverdue": 0
     },
     {
@@ -6852,7 +6896,7 @@
       "lastHitDate": "11/25/2022",
       "hitFreq": 16,
       "totalHits": 33,
-      "noHitCount": 0,
+      "noHitCount": 3,
       "drawsOverdue": 0
     },
     {
@@ -6860,7 +6904,7 @@
       "lastHitDate": "11/04/2022",
       "hitFreq": 18,
       "totalHits": 29,
-      "noHitCount": 6,
+      "noHitCount": 9,
       "drawsOverdue": 0
     },
     {
@@ -6868,31 +6912,31 @@
       "lastHitDate": "06/24/2022",
       "hitFreq": 13,
       "totalHits": 39,
-      "noHitCount": 44,
-      "drawsOverdue": 31
+      "noHitCount": 47,
+      "drawsOverdue": 34
     },
     {
       "number": "57",
       "lastHitDate": "08/30/2022",
       "hitFreq": 14,
       "totalHits": 36,
-      "noHitCount": 25,
-      "drawsOverdue": 11
+      "noHitCount": 28,
+      "drawsOverdue": 14
     },
     {
       "number": "58",
       "lastHitDate": "09/23/2022",
       "hitFreq": 12,
       "totalHits": 43,
-      "noHitCount": 18,
-      "drawsOverdue": 6
+      "noHitCount": 21,
+      "drawsOverdue": 9
     },
     {
       "number": "59",
       "lastHitDate": "11/08/2022",
       "hitFreq": 13,
       "totalHits": 40,
-      "noHitCount": 5,
+      "noHitCount": 8,
       "drawsOverdue": 0
     },
     {
@@ -6900,15 +6944,15 @@
       "lastHitDate": "09/02/2022",
       "hitFreq": 15,
       "totalHits": 35,
-      "noHitCount": 24,
-      "drawsOverdue": 9
+      "noHitCount": 27,
+      "drawsOverdue": 12
     },
     {
       "number": "61",
       "lastHitDate": "11/15/2022",
       "hitFreq": 15,
       "totalHits": 35,
-      "noHitCount": 3,
+      "noHitCount": 6,
       "drawsOverdue": 0
     },
     {
@@ -6916,39 +6960,39 @@
       "lastHitDate": "07/08/2022",
       "hitFreq": 12,
       "totalHits": 42,
-      "noHitCount": 40,
-      "drawsOverdue": 28
+      "noHitCount": 43,
+      "drawsOverdue": 31
     },
     {
       "number": "63",
       "lastHitDate": "08/02/2022",
       "hitFreq": 16,
       "totalHits": 33,
-      "noHitCount": 33,
-      "drawsOverdue": 17
+      "noHitCount": 36,
+      "drawsOverdue": 20
     },
     {
       "number": "64",
       "lastHitDate": "09/23/2022",
       "hitFreq": 11,
       "totalHits": 46,
-      "noHitCount": 18,
-      "drawsOverdue": 7
+      "noHitCount": 21,
+      "drawsOverdue": 10
     },
     {
       "number": "65",
       "lastHitDate": "08/30/2022",
       "hitFreq": 18,
       "totalHits": 29,
-      "noHitCount": 25,
-      "drawsOverdue": 7
+      "noHitCount": 28,
+      "drawsOverdue": 10
     },
     {
       "number": "66",
       "lastHitDate": "11/18/2022",
       "hitFreq": 14,
       "totalHits": 36,
-      "noHitCount": 2,
+      "noHitCount": 5,
       "drawsOverdue": 0
     },
     {
@@ -6956,7 +7000,7 @@
       "lastHitDate": "11/25/2022",
       "hitFreq": 16,
       "totalHits": 32,
-      "noHitCount": 0,
+      "noHitCount": 3,
       "drawsOverdue": 0
     },
     {
@@ -6964,7 +7008,7 @@
       "lastHitDate": "10/21/2022",
       "hitFreq": 14,
       "totalHits": 37,
-      "noHitCount": 10,
+      "noHitCount": 13,
       "drawsOverdue": 0
     },
     {
@@ -6972,7 +7016,7 @@
       "lastHitDate": "10/28/2022",
       "hitFreq": 16,
       "totalHits": 32,
-      "noHitCount": 8,
+      "noHitCount": 11,
       "drawsOverdue": 0
     },
     {
@@ -6980,7 +7024,7 @@
       "lastHitDate": "11/11/2022",
       "hitFreq": 13,
       "totalHits": 39,
-      "noHitCount": 4,
+      "noHitCount": 7,
       "drawsOverdue": 0
     }
   ]

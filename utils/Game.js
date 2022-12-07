@@ -1,6 +1,6 @@
-const getLotteryData = require("./lotteryDataApi")
-const analyzeNumbers = require("./analyzeNumbers")
-const Drawing = require("./Drawing")
+import analyzeNumbers from './analyzeNumbers.js'
+import Drawing from './Drawing.js'
+import getLotteryData from './getLotteryData.js'
 
 const drawDateAscSort = (a, b) => {
   const aDate = new Date(a.drawDate).getTime()
@@ -29,7 +29,7 @@ class Game {
 
   constructor(game) {
     this.name = game.name
-    this.shortName = game.name.toLowerCase().replace(" ", "_")
+    this.shortName = game.name.toLowerCase().replace(' ', '_')
     this.apiId = game.apiId
     this.analysisStartDate = game.analysisStartDate
     this.fieldNumMax = game.fieldNumMax
@@ -93,4 +93,4 @@ class Game {
   }
 }
 
-module.exports = Game
+export default Game

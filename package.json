@@ -12,10 +12,16 @@
     "start": "parcel --dist-dir ./docs",
     "prebuild": "rm -rf ./docs",
     "build": "parcel build",
-    "updateGameData": "node src/scripts/utils/updateGameData.js"
+    "update": "node utils/updateGameData.js"
   },
   "targets": {
     "default": {
+      "source": [
+        "src/index.ejs",
+        "src/pages/home.ejs",
+        "src/pages/powerball.ejs",
+        "src/pages/mega_millions.ejs"
+      ],
       "distDir": "docs/",
       "publicUrl": "./",
       "sourceMap": false
@@ -23,7 +29,11 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.0",
+    "@types/node": "^18.11.10",
     "parcel": "^2.8.0",
     "parcel-transformer-ejs": "^1.0.0"
+  },
+  "dependencies": {
+    "@utils/javascript": "file:utils"
   }
 }

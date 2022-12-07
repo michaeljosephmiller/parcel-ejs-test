@@ -7,12 +7,9 @@
 
 <body>
   <%- include('_includes/header') %>
-  <main class='main'>
-    <% for (const game of games) { %>
-    <%- include('_includes/gameCard', { game: game }) %>
-    <% } %>
-  </main>
+  <main id='content' class='main'></main>
   <%- include('_includes/footer') %>
+  <script src='./scripts/loadContent.js'></script>
 </body>
 
 </html>

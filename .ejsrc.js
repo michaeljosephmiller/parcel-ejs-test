@@ -1,8 +1,10 @@
-let site = require("./src/_data/site.json");
-let powerball = require("./src/_data/powerball.json");
-let mega_millions = require("./src/_data/mega_millions.json");
+'use strict'
+
+let siteData = require('./src/_data/site.json')
+let powerballData = require('./src/_data/games/powerball.json')
+let mega_millionsData = require('./src/_data/games/mega_millions.json')
 
 module.exports = {
-  site: site,
-  games: [powerball, mega_millions],
-};
+  site: siteData,
+  games: [powerballData, mega_millionsData],
+}
