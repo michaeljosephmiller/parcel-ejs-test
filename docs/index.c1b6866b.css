@@ -65,10 +65,14 @@
   }
 
   .header .primary-navigation {
-    gap: .5rem;
+    width: -moz-fit-content;
+    width: fit-content;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: auto;
     display: none;
     position: fixed;
-    inset: 10vh 1rem auto;
+    inset: 6vh 1.4rem auto;
   }
 
   .header .primary-navigation[data-visible] {
@@ -78,7 +82,15 @@
   .header .primary-navigation .nav-list {
     text-align: right;
     background-color: #fff;
-    display: grid;
+    flex-direction: column;
+    gap: 0;
+    display: flex;
+  }
+
+  .header .primary-navigation .nav-list li a {
+    border-bottom: 1px solid #ccc;
+    padding: .5rem 1rem;
+    display: block;
   }
 }
 

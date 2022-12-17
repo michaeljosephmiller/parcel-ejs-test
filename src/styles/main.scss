@@ -67,15 +67,25 @@ $color-primary: #006af6;
     .primary-navigation {
       display: none;
       position: fixed;
-      inset: 10vh 1rem auto;
-      gap: 0.5rem;
+      inset: 6vh 1.4rem auto;
+      width: fit-content;
+      margin-left: auto;
+      border: $universal-border;
+      border-radius: 5px;
       &[data-visible] {
         display: block;
       }
       .nav-list {
-        display: grid;
+        display: flex;
+        flex-direction: column;
         text-align: right;
+        gap: 0;
         background-color: #fff;
+        li a {
+          border-bottom: $universal-border;
+          display: block;
+          padding: 0.5rem 1rem;
+        }
       }
     }
   }
