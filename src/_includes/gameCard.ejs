@@ -1,3 +1,4 @@
+<a class='card-link' href="./<%- game.name.toLowerCase().replace(' ', '_') %>.ejs">
 <section class='card'>
   <h2 class='title section'><%- game.name %></h2>
   <table class='info section'>
@@ -37,3 +38,4 @@
     <div><%- overdueNums.splice(0, overdueNums.length).sort().join(', ') %></div>
   </div>
 </section>
+</a>

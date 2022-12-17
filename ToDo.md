@@ -7,4 +7,7 @@
 - [ ] Style Header Logo/Title
 
 ## Pages
-- [ ]
+- [ ] Game Page
+  - [ ] 
+- [ ] Backtest Page
+  - [ ] options form

@@ -91,7 +91,12 @@
   display: flex;
 }
 
-.main .card {
+.main .card-link {
+  color: #222;
+  text-decoration: none;
+}
+
+.main .card-link .card {
   text-align: center;
   min-width: 310px;
   border: 1px solid #ccc;
@@ -100,17 +105,17 @@
   transition: all .1s linear;
 }
 
-.main .card:hover {
+.main .card-link .card:hover {
   scale: 1.01;
   box-shadow: 0 10px 10px -5px #000;
 }
 
-.main .card .section {
+.main .card-link .card .section {
   width: 100%;
   padding: 1rem;
 }
 
-.main .card > :not(:last-child) {
+.main .card-link .card > :not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 

@@ -13,7 +13,7 @@
     "prebuild": "npm run cleanup",
     "cleanup": "rm -rf ./docs",
     "build": "parcel build",
-    "update": "node utils/db/updateGameData.js"
+    "update": "node --trace-warnings utils/update"
   },
   "targets": {
     "default": {
